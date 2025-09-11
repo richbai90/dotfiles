@@ -1,0 +1,3 @@
+audio.play_bitrate_non_metered_migrated=true
+connect.dial_devices="[{\"address\":\"155.98.5.146\",\"app_state\":\"MISSING\",\"created_timestamp\":1756751707,\"device_id\":\"a90623cd-9890-33ca-8ae5-3d51b8af4de6\",\"dial_location_url\":\"http://155.98.5.146:60000/dd.xml\",\"display_name\":\"My TV\",\"last_seen\":1756751759,\"manufacturer\":\"TCL\",\"model_name\":\"65S551F\",\"product_cap\":\"\",\"public_ip\":\"155.98.5.86\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":250,\"mac\":\"382656be5764\",\"port\":9,\"retries\":160}}]"
+connect.mdns_devices="[]"

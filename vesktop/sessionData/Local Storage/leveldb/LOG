@@ -1,0 +1,23 @@
+2025/09/10-18:27:14.582 59f7c Reusing MANIFEST /home/rich/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/09/10-18:27:14.590 59f7c Recovering log #80
+2025/09/10-18:27:14.591 59f7c Level-0 table #84: started
+2025/09/10-18:27:14.593 59f7c Level-0 table #84: 44178 bytes OK
+2025/09/10-18:27:14.596 59f7c Delete type=0 #80
+2025/09/10-18:29:14.837 59f7c Level-0 table #87: started
+2025/09/10-18:29:14.870 59f7c Level-0 table #87: 44458 bytes OK
+2025/09/10-18:29:14.895 59f7c Delete type=0 #85
+2025/09/10-20:10:39.135 59f7c Level-0 table #89: started
+2025/09/10-20:10:39.221 59f7c Level-0 table #89: 45678 bytes OK
+2025/09/10-20:10:39.225 59f7c Delete type=0 #86
+2025/09/11-09:41:33.306 59f7c Level-0 table #91: started
+2025/09/11-09:41:33.373 59f7c Level-0 table #91: 57269 bytes OK
+2025/09/11-09:41:33.393 59f7c Delete type=0 #88
+2025/09/11-09:41:33.394 59f7c Compacting 4@0 + 1@1 files
+2025/09/11-09:41:33.398 59f7c Generated table #92@0: 68 keys, 29782 bytes
+2025/09/11-09:41:33.398 59f7c Compacted 4@0 + 1@1 files => 29782 bytes
+2025/09/11-09:41:33.401 59f7c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/11-09:41:33.401 59f7c Delete type=2 #87
+2025/09/11-09:41:33.401 59f7c Delete type=2 #82
+2025/09/11-09:41:33.401 59f7c Delete type=2 #89
+2025/09/11-09:41:33.401 59f7c Delete type=2 #91
+2025/09/11-09:41:33.401 59f7c Delete type=2 #84

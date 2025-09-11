@@ -1,0 +1,7 @@
+2025/09/01-12:12:59.903 1ba6 Reusing MANIFEST /home/rich/.config/vesktop/sessionData/WebStorage/2/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/09/01-12:12:59.903 1ba6 Recovering log #3
+2025/09/01-12:12:59.904 1ba6 Reusing old log /home/rich/.config/vesktop/sessionData/WebStorage/2/IndexedDB/indexeddb.leveldb/000003.log 
+2025/09/02-17:30:38.065 1ba7 Level-0 table #5: started
+2025/09/02-17:30:38.070 1ba7 Level-0 table #5: 240194 bytes OK
+2025/09/02-17:30:38.075 1ba7 Delete type=0 #3
+2025/09/02-17:30:38.075 1ba7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

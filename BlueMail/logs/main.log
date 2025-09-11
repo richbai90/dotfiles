@@ -1,0 +1,236 @@
+[2025-09-02 14:19:47.266] [info]  [autoUpdateService] loaded...
+[2025-09-02 14:19:47.324] [silly] testing logs...
+[2025-09-02 14:19:47.364] [error] starting
+[2025-09-02 14:19:47.818] [info]  App is ready
+[2025-09-02 14:19:47.883] [info]  [ScheduledNotificationService] Initializing...
+[2025-09-02 14:19:47.885] [info]  [ScheduledNotificationService] Initialized with 0 notifications
+[2025-09-02 14:19:47.885] [error] [autoUpdateService] appReadyToShow false
+[2025-09-02 14:19:47.897] [verbose] web-contents-created
+[2025-09-02 14:19:47.907] [verbose] web-contents-created
+[2025-09-02 14:19:48.122] [debug] Browser window focus
+[2025-09-02 14:19:50.117] [error] Got an error! sid: undefined, build: undefined, ver: undefined
+[2025-09-02 14:19:50.118] [error] {
+  errorData: { message: 'Uncaught ReferenceError: module is not defined' }
+}
+[2025-09-02 14:19:50.154] [info]  [splash] didFinishLoadMain { isTimedOut: false }
+[2025-09-02 14:19:50.154] [info]  [splash] dataLoadedCallback 1
+[2025-09-02 14:19:51.048] [error] Main window finished loading all resources
+[2025-09-02 14:19:51.137] [error] Failed to load: ERR_FILE_NOT_FOUND (-6)
+[2025-09-02 14:19:51.155] [info]  [splash] dataLoadedCallback 2
+[2025-09-02 14:19:51.155] [info]  [splash] dataLoadedCallback 3
+[2025-09-02 14:19:51.155] [info]  [splash] dataLoadedCallback 4
+[2025-09-02 14:19:51.158] [info]  [splash] dataLoadedCallback 5
+[2025-09-02 14:19:51.159] [info]  [splash] dataLoadedCallback 6
+[2025-09-02 14:19:51.178] [debug] Browser window blur
+[2025-09-02 14:19:51.181] [debug] Browser window focus
+[2025-09-02 14:19:51.275] [debug] Browser window blur
+[2025-09-02 14:19:51.275] [debug] Browser window focus
+[2025-09-02 14:19:51.763] [debug] Browser window focus
+[2025-09-02 14:19:51.771] [debug] Browser window blur
+[2025-09-02 14:19:51.771] [debug] Browser window focus
+[2025-09-02 14:20:16.506] [debug] Browser window blur
+[2025-09-02 14:20:25.006] [debug] Browser window focus
+[2025-09-02 14:20:25.307] [debug] Browser window blur
+[2025-09-02 14:21:00.532] [debug] Browser window focus
+[2025-09-02 14:21:37.100] [debug] Browser window blur
+[2025-09-02 14:21:39.909] [debug] Browser window focus
+[2025-09-02 14:21:40.515] [debug] Browser window blur
+[2025-09-02 14:21:40.836] [debug] Browser window focus
+[2025-09-02 14:21:41.331] [debug] Browser window blur
+[2025-09-02 14:22:32.502] [debug] Browser window focus
+[2025-09-02 14:22:50.589] [debug] Browser window blur
+[2025-09-02 14:22:58.550] [debug] Browser window focus
+[2025-09-02 14:23:01.333] [debug] Browser window blur
+[2025-09-02 14:23:21.062] [debug] Browser window focus
+[2025-09-02 14:23:22.053] [debug] Browser window blur
+[2025-09-02 14:23:22.711] [debug] Browser window focus
+[2025-09-02 14:23:27.870] [debug] Browser window blur
+[2025-09-02 14:24:16.032] [debug] Browser window focus
+[2025-09-02 14:24:17.639] [debug] Browser window blur
+[2025-09-02 14:24:22.788] [info]  [autoUpdateService] loaded...
+[2025-09-02 14:24:22.841] [silly] testing logs...
+[2025-09-02 14:24:22.876] [error] starting
+[2025-09-02 14:24:22.946] [debug] Browser window focus
+[2025-09-02 14:24:23.036] [info]  exit..
+[2025-09-02 14:24:26.423] [debug] Browser window blur
+[2025-09-02 14:24:26.427] [debug] Browser window focus
+[2025-09-02 14:24:26.887] [debug] Browser window blur
+[2025-09-02 14:24:27.343] [debug] Browser window focus
+[2025-09-02 14:24:33.879] [debug] Browser window blur
+[2025-09-02 14:24:34.496] [debug] Browser window focus
+[2025-09-02 14:24:37.004] [debug] Browser window blur
+[2025-09-02 14:24:39.725] [info]  exit..
+[2025-09-02 14:24:44.371] [info]  [autoUpdateService] loaded...
+[2025-09-02 14:24:44.420] [silly] testing logs...
+[2025-09-02 14:24:44.459] [error] starting
+[2025-09-02 14:24:44.688] [info]  App is ready
+[2025-09-02 14:24:44.764] [info]  [ScheduledNotificationService] Initializing...
+[2025-09-02 14:24:44.765] [info]  [ScheduledNotificationService] Initialized with 0 notifications
+[2025-09-02 14:24:44.766] [error] [autoUpdateService] appReadyToShow false
+[2025-09-02 14:24:44.774] [verbose] web-contents-created
+[2025-09-02 14:24:44.790] [verbose] web-contents-created
+[2025-09-02 14:24:45.007] [debug] Browser window focus
+[2025-09-02 14:24:45.010] [debug] Browser window blur
+[2025-09-02 14:24:45.010] [debug] Browser window focus
+[2025-09-02 14:24:45.167] [debug] Browser window blur
+[2025-09-02 14:24:45.928] [debug] Browser window focus
+[2025-09-02 14:24:46.714] [error] Got an error! sid: 7lvp1goy4u, build: 20465, ver: 1.140.102
+[2025-09-02 14:24:46.714] [error] {
+  errorData: { message: 'Uncaught ReferenceError: module is not defined' }
+}
+[2025-09-02 14:24:46.741] [info]  [splash] didFinishLoadMain { isTimedOut: false }
+[2025-09-02 14:24:46.741] [info]  [splash] dataLoadedCallback 1
+[2025-09-02 14:24:47.555] [error] Main window finished loading all resources
+[2025-09-02 14:24:47.673] [error] Failed to load: ERR_FILE_NOT_FOUND (-6)
+[2025-09-02 14:24:47.742] [info]  [splash] dataLoadedCallback 2
+[2025-09-02 14:24:47.742] [info]  [splash] dataLoadedCallback 3
+[2025-09-02 14:24:47.743] [info]  [splash] dataLoadedCallback 4
+[2025-09-02 14:24:47.746] [info]  [splash] dataLoadedCallback 5
+[2025-09-02 14:24:47.747] [info]  [splash] dataLoadedCallback 6
+[2025-09-02 14:24:47.776] [debug] Browser window blur
+[2025-09-02 14:24:47.776] [debug] Browser window focus
+[2025-09-02 14:24:48.551] [debug] Browser window blur
+[2025-09-02 14:24:48.610] [debug] Browser window focus
+[2025-09-02 14:25:02.384] [debug] Browser window blur
+[2025-09-02 14:25:26.227] [debug] Browser window focus
+[2025-09-02 14:25:36.160] [debug] Browser window blur
+[2025-09-02 14:25:42.123] [debug] Browser window focus
+[2025-09-02 14:25:49.985] [debug] Browser window blur
+[2025-09-02 14:25:54.645] [debug] Browser window focus
+[2025-09-02 14:25:54.730] [debug] Browser window blur
+[2025-09-02 14:26:05.982] [debug] Browser window focus
+[2025-09-02 14:26:11.529] [debug] Browser window blur
+[2025-09-02 14:26:16.024] [info]  exit..
+[2025-09-02 14:27:51.208] [info]  [autoUpdateService] loaded...
+[2025-09-02 14:27:51.257] [silly] testing logs...
+[2025-09-02 14:27:51.305] [error] starting
+[2025-09-02 14:28:32.463] [info]  [autoUpdateService] loaded...
+[2025-09-02 14:28:32.523] [silly] testing logs...
+[2025-09-02 14:28:32.569] [error] starting
+[2025-09-02 14:30:12.614] [info]  [autoUpdateService] loaded...
+[2025-09-02 14:30:12.652] [silly] testing logs...
+[2025-09-02 14:30:12.692] [error] starting
+[2025-09-02 14:30:12.909] [info]  App is ready
+[2025-09-02 14:30:12.967] [info]  [ScheduledNotificationService] Initializing...
+[2025-09-02 14:30:12.968] [info]  [ScheduledNotificationService] Initialized with 0 notifications
+[2025-09-02 14:30:12.968] [error] [autoUpdateService] appReadyToShow false
+[2025-09-02 14:30:12.973] [verbose] web-contents-created
+[2025-09-02 14:30:12.980] [verbose] web-contents-created
+[2025-09-02 14:30:13.127] [debug] Browser window focus
+[2025-09-02 14:30:14.888] [error] Got an error! sid: 7lvp1goy4u, build: 20465, ver: 1.140.102
+[2025-09-02 14:30:14.889] [error] {
+  errorData: { message: 'Uncaught ReferenceError: module is not defined' }
+}
+[2025-09-02 14:30:14.919] [info]  [splash] didFinishLoadMain { isTimedOut: false }
+[2025-09-02 14:30:14.920] [info]  [splash] dataLoadedCallback 1
+[2025-09-02 14:30:15.677] [error] Main window finished loading all resources
+[2025-09-02 14:30:15.797] [error] Failed to load: ERR_FILE_NOT_FOUND (-6)
+[2025-09-02 14:30:15.920] [info]  [splash] dataLoadedCallback 2
+[2025-09-02 14:30:15.920] [info]  [splash] dataLoadedCallback 3
+[2025-09-02 14:30:15.921] [info]  [splash] dataLoadedCallback 4
+[2025-09-02 14:30:15.924] [info]  [splash] dataLoadedCallback 5
+[2025-09-02 14:30:15.924] [info]  [splash] dataLoadedCallback 6
+[2025-09-02 14:30:15.960] [debug] Browser window blur
+[2025-09-02 14:30:15.961] [debug] Browser window focus
+[2025-09-02 14:30:16.870] [debug] Browser window blur
+[2025-09-02 14:30:16.975] [debug] Browser window focus
+[2025-09-02 14:30:43.104] [debug] Browser window blur
+[2025-09-02 14:30:45.368] [debug] Browser window focus
+[2025-09-02 14:30:45.679] [debug] Browser window blur
+[2025-09-02 14:30:46.063] [debug] Browser window focus
+[2025-09-02 14:30:50.583] [debug] Browser window blur
+[2025-09-02 14:31:28.697] [debug] Browser window focus
+[2025-09-02 14:31:30.144] [debug] Browser window blur
+[2025-09-02 14:31:32.656] [info]  exit..
+[2025-09-02 14:31:43.687] [info]  [autoUpdateService] loaded...
+[2025-09-02 14:31:43.720] [silly] testing logs...
+[2025-09-02 14:31:43.744] [error] starting
+[2025-09-02 14:31:43.976] [info]  App is ready
+[2025-09-02 14:31:44.049] [info]  [ScheduledNotificationService] Initializing...
+[2025-09-02 14:31:44.053] [info]  [ScheduledNotificationService] Initialized with 0 notifications
+[2025-09-02 14:31:44.053] [error] [autoUpdateService] appReadyToShow false
+[2025-09-02 14:31:44.057] [verbose] web-contents-created
+[2025-09-02 14:31:44.064] [verbose] web-contents-created
+[2025-09-02 14:31:44.325] [debug] Browser window focus
+[2025-09-02 14:31:45.999] [error] Got an error! sid: 7lvp1goy4u, build: 20465, ver: 1.140.102
+[2025-09-02 14:31:46.000] [error] {
+  errorData: { message: 'Uncaught ReferenceError: module is not defined' }
+}
+[2025-09-02 14:31:46.788] [error] Main window finished loading all resources
+[2025-09-02 14:31:46.901] [error] Failed to load: ERR_FILE_NOT_FOUND (-6)
+[2025-09-02 14:31:55.864] [debug] Browser window blur
+[2025-09-02 14:31:58.953] [debug] Browser window focus
+[2025-09-02 14:37:53.019] [info]  [autoUpdateService] loaded...
+[2025-09-02 14:37:53.067] [silly] testing logs...
+[2025-09-02 14:37:53.111] [error] starting
+[2025-09-02 14:37:53.287] [info]  App is ready
+[2025-09-02 14:37:53.321] [info]  [ScheduledNotificationService] Initializing...
+[2025-09-02 14:37:53.322] [info]  [ScheduledNotificationService] Initialized with 0 notifications
+[2025-09-02 14:37:53.322] [error] [autoUpdateService] appReadyToShow false
+[2025-09-02 14:37:53.333] [verbose] web-contents-created
+[2025-09-02 14:37:53.346] [verbose] web-contents-created
+[2025-09-02 14:37:53.534] [debug] Browser window focus
+[2025-09-02 14:37:55.413] [error] Got an error! sid: 7lvp1goy4u, build: 20465, ver: 1.140.102
+[2025-09-02 14:37:55.414] [error] {
+  errorData: { message: 'Uncaught ReferenceError: module is not defined' }
+}
+[2025-09-02 14:37:55.441] [info]  [splash] didFinishLoadMain { isTimedOut: false }
+[2025-09-02 14:37:55.442] [info]  [splash] dataLoadedCallback 1
+[2025-09-02 14:37:56.310] [error] Main window finished loading all resources
+[2025-09-02 14:37:56.419] [error] Failed to load: ERR_FILE_NOT_FOUND (-6)
+[2025-09-02 14:37:56.443] [info]  [splash] dataLoadedCallback 2
+[2025-09-02 14:37:56.443] [info]  [splash] dataLoadedCallback 3
+[2025-09-02 14:37:56.443] [info]  [splash] dataLoadedCallback 4
+[2025-09-02 14:37:56.455] [info]  [splash] dataLoadedCallback 5
+[2025-09-02 14:37:56.455] [info]  [splash] dataLoadedCallback 6
+[2025-09-02 14:37:56.479] [debug] Browser window blur
+[2025-09-02 14:37:56.483] [debug] Browser window focus
+[2025-09-02 14:37:58.488] [debug] Browser window blur
+[2025-09-02 14:38:24.561] [debug] Browser window focus
+[2025-09-02 14:38:38.001] [debug] Browser window blur
+[2025-09-02 14:38:43.795] [debug] Browser window focus
+[2025-09-02 14:38:44.131] [debug] Browser window blur
+[2025-09-02 14:38:44.673] [debug] Browser window focus
+[2025-09-02 14:38:50.976] [debug] Browser window blur
+[2025-09-02 14:39:05.801] [debug] Browser window focus
+[2025-09-02 14:39:06.337] [debug] Browser window blur
+[2025-09-02 14:39:57.467] [debug] Browser window focus
+[2025-09-02 14:39:57.715] [debug] Browser window blur
+[2025-09-02 14:40:14.677] [debug] Browser window focus
+[2025-09-02 14:40:14.939] [debug] Browser window blur
+[2025-09-02 14:48:55.888] [debug] Browser window focus
+[2025-09-02 14:49:00.050] [debug] Browser window blur
+[2025-09-02 14:49:02.614] [info]  exit..
+[2025-09-02 14:49:14.533] [info]  [autoUpdateService] loaded...
+[2025-09-02 14:49:14.571] [silly] testing logs...
+[2025-09-02 14:49:14.601] [error] starting
+[2025-09-02 14:49:14.770] [info]  App is ready
+[2025-09-02 14:49:14.813] [info]  [ScheduledNotificationService] Initializing...
+[2025-09-02 14:49:14.814] [info]  [ScheduledNotificationService] Initialized with 0 notifications
+[2025-09-02 14:49:14.815] [error] [autoUpdateService] appReadyToShow false
+[2025-09-02 14:49:14.821] [verbose] web-contents-created
+[2025-09-02 14:49:14.830] [verbose] web-contents-created
+[2025-09-02 14:49:15.045] [debug] Browser window focus
+[2025-09-02 14:49:15.374] [debug] Browser window blur
+[2025-09-02 14:49:16.889] [error] Got an error! sid: 7lvp1goy4u, build: 20465, ver: 1.140.102
+[2025-09-02 14:49:16.889] [error] {
+  errorData: { message: 'Uncaught ReferenceError: module is not defined' }
+}
+[2025-09-02 14:49:16.919] [info]  [splash] didFinishLoadMain { isTimedOut: false }
+[2025-09-02 14:49:16.920] [info]  [splash] dataLoadedCallback 1
+[2025-09-02 14:49:17.710] [error] Main window finished loading all resources
+[2025-09-02 14:49:17.833] [error] Failed to load: ERR_FILE_NOT_FOUND (-6)
+[2025-09-02 14:49:17.920] [info]  [splash] dataLoadedCallback 2
+[2025-09-02 14:49:17.920] [info]  [splash] dataLoadedCallback 3
+[2025-09-02 14:49:17.920] [info]  [splash] dataLoadedCallback 4
+[2025-09-02 14:49:17.930] [info]  [splash] dataLoadedCallback 5
+[2025-09-02 14:49:17.931] [info]  [splash] dataLoadedCallback 6
+[2025-09-02 14:49:17.954] [debug] Browser window focus
+[2025-09-02 14:49:31.543] [debug] Browser window blur
+[2025-09-02 14:49:36.415] [debug] Browser window focus
+[2025-09-02 14:49:36.670] [debug] Browser window blur
+[2025-09-02 14:49:37.250] [debug] Browser window focus
+[2025-09-02 14:49:42.510] [debug] Browser window blur
+[2025-09-02 14:49:53.223] [debug] Browser window focus
+[2025-09-02 14:49:56.151] [debug] Browser window blur
+[2025-09-02 16:35:39.440] [info]  exit..

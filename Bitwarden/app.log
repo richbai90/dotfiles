@@ -1,0 +1,1011 @@
+[2025-08-26 06:36:56.345] [info]  No state version found, assuming empty state.
+[2025-08-26 06:36:56.433] [info]  Coredumps are disabled in renderer process
+[2025-08-26 06:36:56.433] [info]  Disabling memory dumps in main process
+[2025-08-26 06:36:56.810] [info]  [Native Messaging IPC] Clearing connected apps
+[2025-08-26 06:36:56.811] [info]  State version: 72
+[2025-08-26 06:36:56.888] [info]  Retrieving application id
+[2025-08-26 06:37:04.606] [info]  Retrieving application id
+[2025-08-26 06:37:04.611] [info]  Retrieving application id
+[2025-08-26 06:37:13.711] [info]  Retrieving application id
+[2025-08-26 06:37:14.362] [info]  [KeyService] Deriving master key took 377ms
+[2025-08-26 06:37:14.365] [info]  Retrieving application id
+[2025-08-26 06:38:35.910] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-26 06:38:35.914] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-26 06:38:35.916] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-26 06:38:35.917] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-08-26 06:38:35.923] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-26 06:38:35.926] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-26 06:38:35.927] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-08-26 06:38:35.969] [info]  Using SignalR for notifications
+[2025-08-26 06:38:35.976] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-26 06:38:35.976] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-26 06:38:35.979] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-26 06:38:35.980] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-26 06:38:35.984] [error] [Credential Storage Listener] deletePassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-26 06:38:35.985] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-26 06:38:36.004] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-26 06:38:36.007] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-26 06:38:36.392] [info]  [SignalR] WebSocket connected to wss://notifications.bitwarden.com/hub?access_token=[REDACTED]
+[2025-08-26 06:38:36.392] [info]  [SignalR] Using HubProtocol 'messagepack'.
+[2025-08-26 06:38:37.704] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-26 06:38:37.713] [info]  [SearchService]: isSearchable took 3.7999999970197678 undefined
+[2025-08-26 06:38:37.718] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-26 06:38:37.741] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-26 06:38:37.766] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-26 06:38:38.025] [info]  [CipherService]: decrypt complete took 120.39999999850988 [ [ 'Items', 1483 ] ]
+[2025-08-26 06:38:38.353] [info]  [SearchService]: index complete took 301.3999999985099 [ [ 'Items', 1483 ] ]
+[2025-08-26 06:38:38.460] [info]  [SearchService]: isSearchable took 19.799999997019768 undefined
+[2025-08-26 06:38:38.575] [info]  [SearchService]: index complete took 115.09999999403954 [ [ 'Items', 1483 ] ]
+[2025-08-26 06:38:38.673] [info]  [SearchService]: isSearchable took 29.700000002980232 undefined
+[2025-08-26 06:38:52.168] [info]  [SearchService]: isSearchable took 85.89999999850988 undefined
+[2025-08-26 06:38:52.168] [info]  [SearchService]: isSearchable took 70.10000000149012 undefined
+[2025-08-26 06:38:52.444] [info]  [SearchService]: isSearchable took 37.399999998509884 undefined
+[2025-08-26 06:38:52.445] [info]  [SearchService]: isSearchable took 19.399999998509884 undefined
+[2025-08-26 06:38:52.578] [info]  [SearchService]: isSearchable took 32.5 undefined
+[2025-08-26 06:38:52.579] [info]  [SearchService]: isSearchable took 16 undefined
+[2025-08-26 06:38:52.797] [info]  [SearchService]: isSearchable took 35 undefined
+[2025-08-26 06:38:52.797] [info]  [SearchService]: isSearchable took 13.899999998509884 undefined
+[2025-08-26 06:38:52.938] [info]  [SearchService]: isSearchable took 31.899999998509884 undefined
+[2025-08-26 06:38:52.938] [info]  [SearchService]: isSearchable took 14.899999998509884 undefined
+[2025-08-26 06:57:17.576] [info]  Autotype disabled.
+[2025-08-28 12:12:22.678] [info]  State version: 72
+[2025-08-28 12:12:22.682] [info]  Migrator MinVersionMigrator (to version 3) should migrate: false - up
+[2025-08-28 12:12:22.682] [info]  Migrator RemoveEverBeenUnlockedMigrator (to version 4) should migrate: false - up
+[2025-08-28 12:12:22.682] [info]  Migrator AddKeyTypeToOrgKeysMigrator (to version 5) should migrate: false - up
+[2025-08-28 12:12:22.682] [info]  Migrator RemoveLegacyEtmKeyMigrator (to version 6) should migrate: false - up
+[2025-08-28 12:12:22.682] [info]  Migrator MoveBiometricAutoPromptToAccount (to version 7) should migrate: false - up
+[2025-08-28 12:12:22.682] [info]  Migrator MoveStateVersionMigrator (to version 8) should migrate: false - up
+[2025-08-28 12:12:22.682] [info]  Migrator MoveBrowserSettingsToGlobal (to version 9) should migrate: false - up
+[2025-08-28 12:12:22.682] [info]  Migrator EverHadUserKeyMigrator (to version 10) should migrate: false - up
+[2025-08-28 12:12:22.683] [info]  Migrator OrganizationKeyMigrator (to version 11) should migrate: false - up
+[2025-08-28 12:12:22.683] [info]  Migrator MoveEnvironmentStateToProviders (to version 12) should migrate: false - up
+[2025-08-28 12:12:22.683] [info]  Migrator ProviderKeyMigrator (to version 13) should migrate: false - up
+[2025-08-28 12:12:22.683] [info]  Migrator MoveBiometricClientKeyHalfToStateProviders (to version 14) should migrate: false - up
+[2025-08-28 12:12:22.683] [info]  Migrator FolderMigrator (to version 15) should migrate: false - up
+[2025-08-28 12:12:22.683] [info]  Migrator LastSyncMigrator (to version 16) should migrate: false - up
+[2025-08-28 12:12:22.683] [info]  Migrator EnablePasskeysMigrator (to version 17) should migrate: false - up
+[2025-08-28 12:12:22.683] [info]  Migrator AutofillSettingsKeyMigrator (to version 18) should migrate: false - up
+[2025-08-28 12:12:22.683] [info]  Migrator RequirePasswordOnStartMigrator (to version 19) should migrate: false - up
+[2025-08-28 12:12:22.683] [info]  Migrator PrivateKeyMigrator (to version 20) should migrate: false - up
+[2025-08-28 12:12:22.683] [info]  Migrator CollectionMigrator (to version 21) should migrate: false - up
+[2025-08-28 12:12:22.683] [info]  Migrator CollapsedGroupingsMigrator (to version 22) should migrate: false - up
+[2025-08-28 12:12:22.683] [info]  Migrator MoveBiometricPromptsToStateProviders (to version 23) should migrate: false - up
+[2025-08-28 12:12:22.683] [info]  Migrator SmOnboardingTasksMigrator (to version 24) should migrate: false - up
+[2025-08-28 12:12:22.683] [info]  Migrator ClearClipboardDelayMigrator (to version 25) should migrate: false - up
+[2025-08-28 12:12:22.683] [info]  Migrator RevertLastSyncMigrator (to version 26) should migrate: false - up
+[2025-08-28 12:12:22.683] [info]  Migrator BadgeSettingsMigrator (to version 27) should migrate: false - up
+[2025-08-28 12:12:22.683] [info]  Migrator MoveBiometricUnlockToStateProviders (to version 28) should migrate: false - up
+[2025-08-28 12:12:22.683] [info]  Migrator UserNotificationSettingsKeyMigrator (to version 29) should migrate: false - up
+[2025-08-28 12:12:22.683] [info]  Migrator PolicyMigrator (to version 30) should migrate: false - up
+[2025-08-28 12:12:22.683] [info]  Migrator EnableContextMenuMigrator (to version 31) should migrate: false - up
+[2025-08-28 12:12:22.684] [info]  Migrator PreferredLanguageMigrator (to version 32) should migrate: false - up
+[2025-08-28 12:12:22.684] [info]  Migrator AppIdMigrator (to version 33) should migrate: false - up
+[2025-08-28 12:12:22.684] [info]  Migrator DomainSettingsMigrator (to version 34) should migrate: false - up
+[2025-08-28 12:12:22.684] [info]  Migrator MoveThemeToStateProviderMigrator (to version 35) should migrate: false - up
+[2025-08-28 12:12:22.684] [info]  Migrator VaultSettingsKeyMigrator (to version 36) should migrate: false - up
+[2025-08-28 12:12:22.684] [info]  Migrator AvatarColorMigrator (to version 37) should migrate: false - up
+[2025-08-28 12:12:22.684] [info]  Migrator TokenServiceStateProviderMigrator (to version 38) should migrate: false - up
+[2025-08-28 12:12:22.684] [info]  Migrator MoveBillingAccountProfileMigrator (to version 39) should migrate: false - up
+[2025-08-28 12:12:22.684] [info]  Migrator OrganizationMigrator (to version 40) should migrate: false - up
+[2025-08-28 12:12:22.684] [info]  Migrator EventCollectionMigrator (to version 41) should migrate: false - up
+[2025-08-28 12:12:22.684] [info]  Migrator EnableFaviconMigrator (to version 42) should migrate: false - up
+[2025-08-28 12:12:22.684] [info]  Migrator AutoConfirmFingerPrintsMigrator (to version 43) should migrate: false - up
+[2025-08-28 12:12:22.684] [info]  Migrator UserDecryptionOptionsMigrator (to version 44) should migrate: false - up
+[2025-08-28 12:12:22.684] [info]  Migrator MergeEnvironmentState (to version 45) should migrate: false - up
+[2025-08-28 12:12:22.684] [info]  Migrator DeleteBiometricPromptCancelledData (to version 46) should migrate: false - up
+[2025-08-28 12:12:22.684] [info]  Migrator MoveDesktopSettingsMigrator (to version 47) should migrate: false - up
+[2025-08-28 12:12:22.684] [info]  Migrator MoveDdgToStateProviderMigrator (to version 48) should migrate: false - up
+[2025-08-28 12:12:22.684] [info]  Migrator AccountServerConfigMigrator (to version 49) should migrate: false - up
+[2025-08-28 12:12:22.684] [info]  Migrator KeyConnectorMigrator (to version 50) should migrate: false - up
+[2025-08-28 12:12:22.684] [info]  Migrator RememberedEmailMigrator (to version 51) should migrate: false - up
+[2025-08-28 12:12:22.684] [info]  Migrator DeleteInstalledVersion (to version 52) should migrate: false - up
+[2025-08-28 12:12:22.684] [info]  Migrator DeviceTrustServiceStateProviderMigrator (to version 53) should migrate: false - up
+[2025-08-28 12:12:22.684] [info]  Migrator SendMigrator (to version 54) should migrate: false - up
+[2025-08-28 12:12:22.684] [info]  Migrator MoveMasterKeyStateToProviderMigrator (to version 55) should migrate: false - up
+[2025-08-28 12:12:22.684] [info]  Migrator AuthRequestMigrator (to version 56) should migrate: false - up
+[2025-08-28 12:12:22.684] [info]  Migrator CipherServiceMigrator (to version 57) should migrate: false - up
+[2025-08-28 12:12:22.684] [info]  Migrator RemoveRefreshTokenMigratedFlagMigrator (to version 58) should migrate: false - up
+[2025-08-28 12:12:22.684] [info]  Migrator KdfConfigMigrator (to version 59) should migrate: false - up
+[2025-08-28 12:12:22.685] [info]  Migrator KnownAccountsMigrator (to version 60) should migrate: false - up
+[2025-08-28 12:12:22.685] [info]  Migrator PinStateMigrator (to version 61) should migrate: false - up
+[2025-08-28 12:12:22.685] [info]  Migrator VaultTimeoutSettingsServiceStateProviderMigrator (to version 62) should migrate: false - up
+[2025-08-28 12:12:22.685] [info]  Migrator PasswordOptionsMigrator (to version 63) should migrate: false - up
+[2025-08-28 12:12:22.685] [info]  Migrator GeneratorHistoryMigrator (to version 64) should migrate: false - up
+[2025-08-28 12:12:22.685] [info]  Migrator ForwarderOptionsMigrator (to version 65) should migrate: false - up
+[2025-08-28 12:12:22.685] [info]  Migrator MoveFinalDesktopSettingsMigrator (to version 66) should migrate: false - up
+[2025-08-28 12:12:22.685] [info]  Migrator RemoveUnassignedItemsBannerDismissed (to version 67) should migrate: false - up
+[2025-08-28 12:12:22.685] [info]  Migrator MoveLastSyncDate (to version 68) should migrate: false - up
+[2025-08-28 12:12:22.685] [info]  Migrator MigrateIncorrectFolderKey (to version 69) should migrate: false - up
+[2025-08-28 12:12:22.685] [info]  Migrator RemoveAcBannersDismissed (to version 70) should migrate: false - up
+[2025-08-28 12:12:22.685] [info]  Migrator RemoveNewCustomizationOptionsCalloutDismissed (to version 71) should migrate: false - up
+[2025-08-28 12:12:22.685] [info]  Migrator RemoveAccountDeprovisioningBannerDismissed (to version 72) should migrate: false - up
+[2025-08-28 12:12:22.800] [info]  Coredumps are disabled in renderer process
+[2025-08-28 12:12:22.800] [info]  Disabling memory dumps in main process
+[2025-08-28 12:12:23.322] [info]  [Native Messaging IPC] Clearing connected apps
+[2025-08-28 12:12:23.327] [info]  State version: 72
+[2025-08-28 12:12:23.339] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 12:12:23.387] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 12:12:23.401] [info]  Retrieving application id
+[2025-08-28 12:12:23.707] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 12:12:23.713] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 12:12:23.717] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 12:12:23.717] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-08-28 12:12:23.748] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 12:12:23.753] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 12:12:23.754] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-08-28 12:12:23.785] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 12:12:23.789] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 12:12:25.385] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 12:12:31.092] [info]  [KeyService] Deriving master key took 374ms
+[2025-08-28 12:12:31.166] [info]  Vault unlocked 2025-08-28T18:12:31.165Z
+[2025-08-28 12:12:31.177] [info]  Using SignalR for notifications
+[2025-08-28 12:12:31.182] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 12:12:31.190] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 12:12:31.206] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 12:12:31.215] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 12:12:31.217] [error] [Credential Storage Listener] deletePassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 12:12:31.223] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 12:12:31.314] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 12:12:31.318] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 12:12:31.468] [info]  [LockComponent] Sync took 190ms
+[2025-08-28 12:12:31.468] [info]  [LockComponent] Private key regeneration took 0ms
+[2025-08-28 12:12:31.484] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 12:12:31.520] [info]  [SearchService]: isSearchable took 3.7000000001862645 undefined
+[2025-08-28 12:12:31.525] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 12:12:31.548] [info]  [SignalR] WebSocket connected to wss://notifications.bitwarden.com/hub?access_token=[REDACTED]
+[2025-08-28 12:12:31.549] [info]  [SignalR] Using HubProtocol 'messagepack'.
+[2025-08-28 12:12:31.552] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 12:12:31.690] [info]  [CipherService]: decrypt complete took 114 [ [ 'Items', 1483 ] ]
+[2025-08-28 12:12:31.868] [info]  [SearchService]: index complete took 157.29999999981374 [ [ 'Items', 1483 ] ]
+[2025-08-28 12:12:31.901] [info]  [SearchService]: isSearchable took 19.5 undefined
+[2025-08-28 12:12:32.014] [info]  [SearchService]: index complete took 113.20000000018626 [ [ 'Items', 1483 ] ]
+[2025-08-28 12:12:34.484] [info]  [SearchService]: isSearchable took 66.79999999981374 undefined
+[2025-08-28 12:12:34.485] [info]  [SearchService]: isSearchable took 55.5 undefined
+[2025-08-28 12:12:34.669] [info]  [SearchService]: isSearchable took 28.799999999813735 undefined
+[2025-08-28 12:12:34.670] [info]  [SearchService]: isSearchable took 13.299999999813735 undefined
+[2025-08-28 12:12:35.208] [info]  [SearchService]: isSearchable took 31.59999999962747 undefined
+[2025-08-28 12:12:35.209] [info]  [SearchService]: isSearchable took 13.700000000186265 undefined
+[2025-08-28 12:12:35.339] [info]  [SearchService]: isSearchable took 36.10000000055879 undefined
+[2025-08-28 12:12:35.340] [info]  [SearchService]: isSearchable took 20.300000000745058 undefined
+[2025-08-28 12:53:39.232] [error] [SignalR] Connection disconnected with error 'Error: WebSocket closed with status code: 1006 (no reason given).'.
+[2025-08-28 13:03:19.883] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 13:03:19.888] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 13:03:20.186] [info]  [SignalR] WebSocket connected to wss://notifications.bitwarden.com/hub?access_token=[REDACTED]
+[2025-08-28 13:03:20.186] [info]  [SignalR] Using HubProtocol 'messagepack'.
+[2025-08-28 14:20:57.276] [info]  State version: 72
+[2025-08-28 14:20:57.279] [info]  Migrator MinVersionMigrator (to version 3) should migrate: false - up
+[2025-08-28 14:20:57.279] [info]  Migrator RemoveEverBeenUnlockedMigrator (to version 4) should migrate: false - up
+[2025-08-28 14:20:57.279] [info]  Migrator AddKeyTypeToOrgKeysMigrator (to version 5) should migrate: false - up
+[2025-08-28 14:20:57.279] [info]  Migrator RemoveLegacyEtmKeyMigrator (to version 6) should migrate: false - up
+[2025-08-28 14:20:57.280] [info]  Migrator MoveBiometricAutoPromptToAccount (to version 7) should migrate: false - up
+[2025-08-28 14:20:57.280] [info]  Migrator MoveStateVersionMigrator (to version 8) should migrate: false - up
+[2025-08-28 14:20:57.280] [info]  Migrator MoveBrowserSettingsToGlobal (to version 9) should migrate: false - up
+[2025-08-28 14:20:57.280] [info]  Migrator EverHadUserKeyMigrator (to version 10) should migrate: false - up
+[2025-08-28 14:20:57.280] [info]  Migrator OrganizationKeyMigrator (to version 11) should migrate: false - up
+[2025-08-28 14:20:57.280] [info]  Migrator MoveEnvironmentStateToProviders (to version 12) should migrate: false - up
+[2025-08-28 14:20:57.280] [info]  Migrator ProviderKeyMigrator (to version 13) should migrate: false - up
+[2025-08-28 14:20:57.280] [info]  Migrator MoveBiometricClientKeyHalfToStateProviders (to version 14) should migrate: false - up
+[2025-08-28 14:20:57.280] [info]  Migrator FolderMigrator (to version 15) should migrate: false - up
+[2025-08-28 14:20:57.280] [info]  Migrator LastSyncMigrator (to version 16) should migrate: false - up
+[2025-08-28 14:20:57.280] [info]  Migrator EnablePasskeysMigrator (to version 17) should migrate: false - up
+[2025-08-28 14:20:57.280] [info]  Migrator AutofillSettingsKeyMigrator (to version 18) should migrate: false - up
+[2025-08-28 14:20:57.280] [info]  Migrator RequirePasswordOnStartMigrator (to version 19) should migrate: false - up
+[2025-08-28 14:20:57.280] [info]  Migrator PrivateKeyMigrator (to version 20) should migrate: false - up
+[2025-08-28 14:20:57.281] [info]  Migrator CollectionMigrator (to version 21) should migrate: false - up
+[2025-08-28 14:20:57.281] [info]  Migrator CollapsedGroupingsMigrator (to version 22) should migrate: false - up
+[2025-08-28 14:20:57.281] [info]  Migrator MoveBiometricPromptsToStateProviders (to version 23) should migrate: false - up
+[2025-08-28 14:20:57.281] [info]  Migrator SmOnboardingTasksMigrator (to version 24) should migrate: false - up
+[2025-08-28 14:20:57.281] [info]  Migrator ClearClipboardDelayMigrator (to version 25) should migrate: false - up
+[2025-08-28 14:20:57.281] [info]  Migrator RevertLastSyncMigrator (to version 26) should migrate: false - up
+[2025-08-28 14:20:57.281] [info]  Migrator BadgeSettingsMigrator (to version 27) should migrate: false - up
+[2025-08-28 14:20:57.281] [info]  Migrator MoveBiometricUnlockToStateProviders (to version 28) should migrate: false - up
+[2025-08-28 14:20:57.281] [info]  Migrator UserNotificationSettingsKeyMigrator (to version 29) should migrate: false - up
+[2025-08-28 14:20:57.281] [info]  Migrator PolicyMigrator (to version 30) should migrate: false - up
+[2025-08-28 14:20:57.281] [info]  Migrator EnableContextMenuMigrator (to version 31) should migrate: false - up
+[2025-08-28 14:20:57.281] [info]  Migrator PreferredLanguageMigrator (to version 32) should migrate: false - up
+[2025-08-28 14:20:57.281] [info]  Migrator AppIdMigrator (to version 33) should migrate: false - up
+[2025-08-28 14:20:57.281] [info]  Migrator DomainSettingsMigrator (to version 34) should migrate: false - up
+[2025-08-28 14:20:57.281] [info]  Migrator MoveThemeToStateProviderMigrator (to version 35) should migrate: false - up
+[2025-08-28 14:20:57.281] [info]  Migrator VaultSettingsKeyMigrator (to version 36) should migrate: false - up
+[2025-08-28 14:20:57.281] [info]  Migrator AvatarColorMigrator (to version 37) should migrate: false - up
+[2025-08-28 14:20:57.281] [info]  Migrator TokenServiceStateProviderMigrator (to version 38) should migrate: false - up
+[2025-08-28 14:20:57.281] [info]  Migrator MoveBillingAccountProfileMigrator (to version 39) should migrate: false - up
+[2025-08-28 14:20:57.281] [info]  Migrator OrganizationMigrator (to version 40) should migrate: false - up
+[2025-08-28 14:20:57.281] [info]  Migrator EventCollectionMigrator (to version 41) should migrate: false - up
+[2025-08-28 14:20:57.281] [info]  Migrator EnableFaviconMigrator (to version 42) should migrate: false - up
+[2025-08-28 14:20:57.281] [info]  Migrator AutoConfirmFingerPrintsMigrator (to version 43) should migrate: false - up
+[2025-08-28 14:20:57.281] [info]  Migrator UserDecryptionOptionsMigrator (to version 44) should migrate: false - up
+[2025-08-28 14:20:57.281] [info]  Migrator MergeEnvironmentState (to version 45) should migrate: false - up
+[2025-08-28 14:20:57.282] [info]  Migrator DeleteBiometricPromptCancelledData (to version 46) should migrate: false - up
+[2025-08-28 14:20:57.282] [info]  Migrator MoveDesktopSettingsMigrator (to version 47) should migrate: false - up
+[2025-08-28 14:20:57.282] [info]  Migrator MoveDdgToStateProviderMigrator (to version 48) should migrate: false - up
+[2025-08-28 14:20:57.282] [info]  Migrator AccountServerConfigMigrator (to version 49) should migrate: false - up
+[2025-08-28 14:20:57.282] [info]  Migrator KeyConnectorMigrator (to version 50) should migrate: false - up
+[2025-08-28 14:20:57.282] [info]  Migrator RememberedEmailMigrator (to version 51) should migrate: false - up
+[2025-08-28 14:20:57.282] [info]  Migrator DeleteInstalledVersion (to version 52) should migrate: false - up
+[2025-08-28 14:20:57.282] [info]  Migrator DeviceTrustServiceStateProviderMigrator (to version 53) should migrate: false - up
+[2025-08-28 14:20:57.282] [info]  Migrator SendMigrator (to version 54) should migrate: false - up
+[2025-08-28 14:20:57.282] [info]  Migrator MoveMasterKeyStateToProviderMigrator (to version 55) should migrate: false - up
+[2025-08-28 14:20:57.282] [info]  Migrator AuthRequestMigrator (to version 56) should migrate: false - up
+[2025-08-28 14:20:57.282] [info]  Migrator CipherServiceMigrator (to version 57) should migrate: false - up
+[2025-08-28 14:20:57.282] [info]  Migrator RemoveRefreshTokenMigratedFlagMigrator (to version 58) should migrate: false - up
+[2025-08-28 14:20:57.282] [info]  Migrator KdfConfigMigrator (to version 59) should migrate: false - up
+[2025-08-28 14:20:57.282] [info]  Migrator KnownAccountsMigrator (to version 60) should migrate: false - up
+[2025-08-28 14:20:57.282] [info]  Migrator PinStateMigrator (to version 61) should migrate: false - up
+[2025-08-28 14:20:57.282] [info]  Migrator VaultTimeoutSettingsServiceStateProviderMigrator (to version 62) should migrate: false - up
+[2025-08-28 14:20:57.282] [info]  Migrator PasswordOptionsMigrator (to version 63) should migrate: false - up
+[2025-08-28 14:20:57.282] [info]  Migrator GeneratorHistoryMigrator (to version 64) should migrate: false - up
+[2025-08-28 14:20:57.282] [info]  Migrator ForwarderOptionsMigrator (to version 65) should migrate: false - up
+[2025-08-28 14:20:57.282] [info]  Migrator MoveFinalDesktopSettingsMigrator (to version 66) should migrate: false - up
+[2025-08-28 14:20:57.282] [info]  Migrator RemoveUnassignedItemsBannerDismissed (to version 67) should migrate: false - up
+[2025-08-28 14:20:57.282] [info]  Migrator MoveLastSyncDate (to version 68) should migrate: false - up
+[2025-08-28 14:20:57.282] [info]  Migrator MigrateIncorrectFolderKey (to version 69) should migrate: false - up
+[2025-08-28 14:20:57.282] [info]  Migrator RemoveAcBannersDismissed (to version 70) should migrate: false - up
+[2025-08-28 14:20:57.282] [info]  Migrator RemoveNewCustomizationOptionsCalloutDismissed (to version 71) should migrate: false - up
+[2025-08-28 14:20:57.282] [info]  Migrator RemoveAccountDeprovisioningBannerDismissed (to version 72) should migrate: false - up
+[2025-08-28 14:20:57.351] [info]  Autotype disabled.
+[2025-08-28 14:21:10.820] [info]  Using SignalR for notifications
+[2025-08-28 14:21:10.822] [info]  [SignalR] Connection disconnected.
+[2025-08-28 14:21:10.825] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 14:21:10.828] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 14:21:10.841] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 14:21:11.084] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 14:21:11.087] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 14:21:11.091] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 14:21:11.091] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-08-28 14:21:11.128] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 14:21:11.132] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 14:21:11.132] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-08-28 14:21:12.457] [info]  [SearchService]: isSearchable took 80.20000000111759 undefined
+[2025-08-28 14:21:12.457] [info]  [SearchService]: isSearchable took 64.69999999925494 undefined
+[2025-08-28 14:21:12.696] [info]  [SearchService]: isSearchable took 40 undefined
+[2025-08-28 14:21:12.697] [info]  [SearchService]: isSearchable took 21.199999999254942 undefined
+[2025-08-28 14:21:12.779] [info]  [SignalR] WebSocket connected to wss://notifications.bitwarden.com/hub?access_token=[REDACTED]
+[2025-08-28 14:21:12.779] [info]  [SignalR] Using HubProtocol 'messagepack'.
+[2025-08-28 14:21:12.848] [info]  [SearchService]: isSearchable took 33.09999999962747 undefined
+[2025-08-28 14:21:12.848] [info]  [SearchService]: isSearchable took 15.199999999254942 undefined
+[2025-08-28 14:21:13.024] [info]  [SearchService]: isSearchable took 31.90000000037253 undefined
+[2025-08-28 14:21:13.025] [info]  [SearchService]: isSearchable took 13.599999999627471 undefined
+[2025-08-28 14:21:13.307] [info]  [SearchService]: isSearchable took 34.30000000074506 undefined
+[2025-08-28 14:21:13.308] [info]  [SearchService]: isSearchable took 15.599999999627471 undefined
+[2025-08-28 14:21:13.624] [info]  [SearchService]: isSearchable took 32.30000000074506 undefined
+[2025-08-28 14:21:13.625] [info]  [SearchService]: isSearchable took 14.800000000745058 undefined
+[2025-08-28 14:21:13.791] [info]  [SearchService]: isSearchable took 31.09999999962747 undefined
+[2025-08-28 14:21:13.792] [info]  [SearchService]: isSearchable took 14.300000000745058 undefined
+[2025-08-28 14:21:13.946] [info]  [SearchService]: isSearchable took 34.09999999962747 undefined
+[2025-08-28 14:21:13.947] [info]  [SearchService]: isSearchable took 16.700000001117587 undefined
+[2025-08-28 14:21:14.120] [info]  [SearchService]: isSearchable took 39.30000000074506 undefined
+[2025-08-28 14:21:14.121] [info]  [SearchService]: isSearchable took 18.90000000037253 undefined
+[2025-08-28 14:21:14.281] [info]  [SearchService]: isSearchable took 40.30000000074506 undefined
+[2025-08-28 14:21:14.282] [info]  [SearchService]: isSearchable took 17.799999998882413 undefined
+[2025-08-28 14:21:14.671] [info]  [SearchService]: isSearchable took 53.90000000037253 undefined
+[2025-08-28 14:21:14.672] [info]  [SearchService]: isSearchable took 33 undefined
+[2025-08-28 14:21:14.923] [info]  [SearchService]: isSearchable took 42.30000000074506 undefined
+[2025-08-28 14:21:14.923] [info]  [SearchService]: isSearchable took 18.09999999962747 undefined
+[2025-08-28 14:21:15.025] [info]  [SearchService]: isSearchable took 30.699999999254942 undefined
+[2025-08-28 14:21:15.026] [info]  [SearchService]: isSearchable took 14.799999998882413 undefined
+[2025-08-28 14:21:15.172] [info]  [SearchService]: isSearchable took 36.30000000074506 undefined
+[2025-08-28 14:21:15.173] [info]  [SearchService]: isSearchable took 17.5 undefined
+[2025-08-28 14:21:15.271] [info]  [SearchService]: isSearchable took 34.30000000074506 undefined
+[2025-08-28 14:21:15.272] [info]  [SearchService]: isSearchable took 15.699999999254942 undefined
+[2025-08-28 14:21:15.451] [info]  [SearchService]: isSearchable took 34.90000000037253 undefined
+[2025-08-28 14:21:15.452] [info]  [SearchService]: isSearchable took 15.900000000372529 undefined
+[2025-08-28 14:24:50.049] [info]  Autotype disabled.
+[2025-08-28 14:25:33.189] [info]  State version: 72
+[2025-08-28 14:25:33.192] [info]  Migrator MinVersionMigrator (to version 3) should migrate: false - up
+[2025-08-28 14:25:33.192] [info]  Migrator RemoveEverBeenUnlockedMigrator (to version 4) should migrate: false - up
+[2025-08-28 14:25:33.192] [info]  Migrator AddKeyTypeToOrgKeysMigrator (to version 5) should migrate: false - up
+[2025-08-28 14:25:33.192] [info]  Migrator RemoveLegacyEtmKeyMigrator (to version 6) should migrate: false - up
+[2025-08-28 14:25:33.192] [info]  Migrator MoveBiometricAutoPromptToAccount (to version 7) should migrate: false - up
+[2025-08-28 14:25:33.192] [info]  Migrator MoveStateVersionMigrator (to version 8) should migrate: false - up
+[2025-08-28 14:25:33.192] [info]  Migrator MoveBrowserSettingsToGlobal (to version 9) should migrate: false - up
+[2025-08-28 14:25:33.192] [info]  Migrator EverHadUserKeyMigrator (to version 10) should migrate: false - up
+[2025-08-28 14:25:33.192] [info]  Migrator OrganizationKeyMigrator (to version 11) should migrate: false - up
+[2025-08-28 14:25:33.193] [info]  Migrator MoveEnvironmentStateToProviders (to version 12) should migrate: false - up
+[2025-08-28 14:25:33.193] [info]  Migrator ProviderKeyMigrator (to version 13) should migrate: false - up
+[2025-08-28 14:25:33.193] [info]  Migrator MoveBiometricClientKeyHalfToStateProviders (to version 14) should migrate: false - up
+[2025-08-28 14:25:33.193] [info]  Migrator FolderMigrator (to version 15) should migrate: false - up
+[2025-08-28 14:25:33.193] [info]  Migrator LastSyncMigrator (to version 16) should migrate: false - up
+[2025-08-28 14:25:33.193] [info]  Migrator EnablePasskeysMigrator (to version 17) should migrate: false - up
+[2025-08-28 14:25:33.193] [info]  Migrator AutofillSettingsKeyMigrator (to version 18) should migrate: false - up
+[2025-08-28 14:25:33.193] [info]  Migrator RequirePasswordOnStartMigrator (to version 19) should migrate: false - up
+[2025-08-28 14:25:33.193] [info]  Migrator PrivateKeyMigrator (to version 20) should migrate: false - up
+[2025-08-28 14:25:33.193] [info]  Migrator CollectionMigrator (to version 21) should migrate: false - up
+[2025-08-28 14:25:33.193] [info]  Migrator CollapsedGroupingsMigrator (to version 22) should migrate: false - up
+[2025-08-28 14:25:33.193] [info]  Migrator MoveBiometricPromptsToStateProviders (to version 23) should migrate: false - up
+[2025-08-28 14:25:33.193] [info]  Migrator SmOnboardingTasksMigrator (to version 24) should migrate: false - up
+[2025-08-28 14:25:33.193] [info]  Migrator ClearClipboardDelayMigrator (to version 25) should migrate: false - up
+[2025-08-28 14:25:33.193] [info]  Migrator RevertLastSyncMigrator (to version 26) should migrate: false - up
+[2025-08-28 14:25:33.193] [info]  Migrator BadgeSettingsMigrator (to version 27) should migrate: false - up
+[2025-08-28 14:25:33.193] [info]  Migrator MoveBiometricUnlockToStateProviders (to version 28) should migrate: false - up
+[2025-08-28 14:25:33.193] [info]  Migrator UserNotificationSettingsKeyMigrator (to version 29) should migrate: false - up
+[2025-08-28 14:25:33.193] [info]  Migrator PolicyMigrator (to version 30) should migrate: false - up
+[2025-08-28 14:25:33.193] [info]  Migrator EnableContextMenuMigrator (to version 31) should migrate: false - up
+[2025-08-28 14:25:33.193] [info]  Migrator PreferredLanguageMigrator (to version 32) should migrate: false - up
+[2025-08-28 14:25:33.193] [info]  Migrator AppIdMigrator (to version 33) should migrate: false - up
+[2025-08-28 14:25:33.194] [info]  Migrator DomainSettingsMigrator (to version 34) should migrate: false - up
+[2025-08-28 14:25:33.194] [info]  Migrator MoveThemeToStateProviderMigrator (to version 35) should migrate: false - up
+[2025-08-28 14:25:33.194] [info]  Migrator VaultSettingsKeyMigrator (to version 36) should migrate: false - up
+[2025-08-28 14:25:33.194] [info]  Migrator AvatarColorMigrator (to version 37) should migrate: false - up
+[2025-08-28 14:25:33.194] [info]  Migrator TokenServiceStateProviderMigrator (to version 38) should migrate: false - up
+[2025-08-28 14:25:33.194] [info]  Migrator MoveBillingAccountProfileMigrator (to version 39) should migrate: false - up
+[2025-08-28 14:25:33.194] [info]  Migrator OrganizationMigrator (to version 40) should migrate: false - up
+[2025-08-28 14:25:33.194] [info]  Migrator EventCollectionMigrator (to version 41) should migrate: false - up
+[2025-08-28 14:25:33.194] [info]  Migrator EnableFaviconMigrator (to version 42) should migrate: false - up
+[2025-08-28 14:25:33.194] [info]  Migrator AutoConfirmFingerPrintsMigrator (to version 43) should migrate: false - up
+[2025-08-28 14:25:33.194] [info]  Migrator UserDecryptionOptionsMigrator (to version 44) should migrate: false - up
+[2025-08-28 14:25:33.194] [info]  Migrator MergeEnvironmentState (to version 45) should migrate: false - up
+[2025-08-28 14:25:33.194] [info]  Migrator DeleteBiometricPromptCancelledData (to version 46) should migrate: false - up
+[2025-08-28 14:25:33.194] [info]  Migrator MoveDesktopSettingsMigrator (to version 47) should migrate: false - up
+[2025-08-28 14:25:33.194] [info]  Migrator MoveDdgToStateProviderMigrator (to version 48) should migrate: false - up
+[2025-08-28 14:25:33.194] [info]  Migrator AccountServerConfigMigrator (to version 49) should migrate: false - up
+[2025-08-28 14:25:33.194] [info]  Migrator KeyConnectorMigrator (to version 50) should migrate: false - up
+[2025-08-28 14:25:33.194] [info]  Migrator RememberedEmailMigrator (to version 51) should migrate: false - up
+[2025-08-28 14:25:33.194] [info]  Migrator DeleteInstalledVersion (to version 52) should migrate: false - up
+[2025-08-28 14:25:33.194] [info]  Migrator DeviceTrustServiceStateProviderMigrator (to version 53) should migrate: false - up
+[2025-08-28 14:25:33.194] [info]  Migrator SendMigrator (to version 54) should migrate: false - up
+[2025-08-28 14:25:33.194] [info]  Migrator MoveMasterKeyStateToProviderMigrator (to version 55) should migrate: false - up
+[2025-08-28 14:25:33.194] [info]  Migrator AuthRequestMigrator (to version 56) should migrate: false - up
+[2025-08-28 14:25:33.194] [info]  Migrator CipherServiceMigrator (to version 57) should migrate: false - up
+[2025-08-28 14:25:33.194] [info]  Migrator RemoveRefreshTokenMigratedFlagMigrator (to version 58) should migrate: false - up
+[2025-08-28 14:25:33.195] [info]  Migrator KdfConfigMigrator (to version 59) should migrate: false - up
+[2025-08-28 14:25:33.195] [info]  Migrator KnownAccountsMigrator (to version 60) should migrate: false - up
+[2025-08-28 14:25:33.195] [info]  Migrator PinStateMigrator (to version 61) should migrate: false - up
+[2025-08-28 14:25:33.195] [info]  Migrator VaultTimeoutSettingsServiceStateProviderMigrator (to version 62) should migrate: false - up
+[2025-08-28 14:25:33.195] [info]  Migrator PasswordOptionsMigrator (to version 63) should migrate: false - up
+[2025-08-28 14:25:33.195] [info]  Migrator GeneratorHistoryMigrator (to version 64) should migrate: false - up
+[2025-08-28 14:25:33.195] [info]  Migrator ForwarderOptionsMigrator (to version 65) should migrate: false - up
+[2025-08-28 14:25:33.195] [info]  Migrator MoveFinalDesktopSettingsMigrator (to version 66) should migrate: false - up
+[2025-08-28 14:25:33.195] [info]  Migrator RemoveUnassignedItemsBannerDismissed (to version 67) should migrate: false - up
+[2025-08-28 14:25:33.195] [info]  Migrator MoveLastSyncDate (to version 68) should migrate: false - up
+[2025-08-28 14:25:33.195] [info]  Migrator MigrateIncorrectFolderKey (to version 69) should migrate: false - up
+[2025-08-28 14:25:33.195] [info]  Migrator RemoveAcBannersDismissed (to version 70) should migrate: false - up
+[2025-08-28 14:25:33.195] [info]  Migrator RemoveNewCustomizationOptionsCalloutDismissed (to version 71) should migrate: false - up
+[2025-08-28 14:25:33.195] [info]  Migrator RemoveAccountDeprovisioningBannerDismissed (to version 72) should migrate: false - up
+[2025-08-28 14:25:33.307] [info]  Coredumps are disabled in renderer process
+[2025-08-28 14:25:33.308] [info]  Disabling memory dumps in main process
+[2025-08-28 14:25:33.820] [info]  [Native Messaging IPC] Clearing connected apps
+[2025-08-28 14:25:33.825] [info]  State version: 72
+[2025-08-28 14:25:33.838] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 14:25:33.891] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 14:25:33.900] [info]  Retrieving application id
+[2025-08-28 14:25:34.201] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 14:25:34.205] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 14:25:34.209] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 14:25:34.210] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-08-28 14:25:34.239] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 14:25:34.244] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 14:25:34.245] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-08-28 14:25:34.275] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 14:25:34.280] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 14:25:35.849] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 14:25:39.299] [info]  [KeyService] Deriving master key took 374ms
+[2025-08-28 14:25:39.362] [info]  Vault unlocked 2025-08-28T20:25:39.362Z
+[2025-08-28 14:25:39.377] [info]  Using SignalR for notifications
+[2025-08-28 14:25:39.382] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 14:25:39.389] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 14:25:39.407] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 14:25:39.415] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 14:25:39.418] [error] [Credential Storage Listener] deletePassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 14:25:39.426] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 14:25:39.519] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 14:25:39.523] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 14:25:39.733] [info]  [SignalR] WebSocket connected to wss://notifications.bitwarden.com/hub?access_token=[REDACTED]
+[2025-08-28 14:25:39.734] [info]  [SignalR] Using HubProtocol 'messagepack'.
+[2025-08-28 14:25:39.775] [info]  [LockComponent] Sync took 287ms
+[2025-08-28 14:25:39.776] [info]  [LockComponent] Private key regeneration took 0ms
+[2025-08-28 14:25:39.794] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 14:25:39.831] [info]  [SearchService]: isSearchable took 3.400000000372529 undefined
+[2025-08-28 14:25:39.835] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 14:25:39.864] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 14:25:40.012] [info]  [CipherService]: decrypt complete took 123.79999999888241 [ [ 'Items', 1483 ] ]
+[2025-08-28 14:25:40.203] [info]  [SearchService]: index complete took 169.19999999925494 [ [ 'Items', 1483 ] ]
+[2025-08-28 14:25:40.238] [info]  [SearchService]: isSearchable took 18.5 undefined
+[2025-08-28 14:25:40.351] [info]  [SearchService]: index complete took 112.89999999850988 [ [ 'Items', 1483 ] ]
+[2025-08-28 17:55:39.694] [error] [SignalR] Connection disconnected with error 'Error: WebSocket closed with status code: 1006 (no reason given).'.
+[2025-08-28 17:59:29.139] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 17:59:29.143] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 17:59:29.156] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 17:59:29.425] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 17:59:29.429] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 17:59:29.432] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 17:59:29.432] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-08-28 17:59:29.551] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 17:59:29.557] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-28 17:59:29.558] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-08-28 17:59:29.904] [info]  [SignalR] WebSocket connected to wss://notifications.bitwarden.com/hub?access_token=[REDACTED]
+[2025-08-28 17:59:29.904] [info]  [SignalR] Using HubProtocol 'messagepack'.
+[2025-08-28 19:00:35.070] [error] [SignalR] Connection disconnected with error 'Error: WebSocket closed with status code: 1006 (no reason given).'.
+[2025-08-29 08:43:24.146] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-29 08:43:24.152] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-29 08:43:24.167] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-29 08:43:24.397] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-29 08:43:24.400] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-29 08:43:24.404] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-29 08:43:24.405] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-08-29 08:43:24.444] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-29 08:43:24.454] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-29 08:43:24.455] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-08-29 08:43:24.792] [info]  [SignalR] WebSocket connected to wss://notifications.bitwarden.com/hub?access_token=[REDACTED]
+[2025-08-29 08:43:24.793] [info]  [SignalR] Using HubProtocol 'messagepack'.
+[2025-08-29 08:44:45.994] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-29 08:44:45.998] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-29 08:44:46.244] [info]  [SearchService]: isSearchable took 52.29999999701977 undefined
+[2025-08-29 09:38:00.890] [info]  Using SignalR for notifications
+[2025-08-29 09:38:00.891] [info]  [SignalR] Connection disconnected.
+[2025-08-29 09:38:00.896] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-29 09:38:00.900] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-29 09:38:01.226] [info]  [SearchService]: isSearchable took 79.10000000149012 undefined
+[2025-08-29 09:38:01.227] [info]  [SearchService]: isSearchable took 65 undefined
+[2025-08-29 09:38:01.247] [info]  [SignalR] WebSocket connected to wss://notifications.bitwarden.com/hub?access_token=[REDACTED]
+[2025-08-29 09:38:01.247] [info]  [SignalR] Using HubProtocol 'messagepack'.
+[2025-08-29 09:38:01.361] [info]  [SearchService]: isSearchable took 39.399999998509884 undefined
+[2025-08-29 09:38:01.361] [info]  [SearchService]: isSearchable took 18.100000001490116 undefined
+[2025-08-29 09:38:01.468] [info]  [SearchService]: isSearchable took 33 undefined
+[2025-08-29 09:38:01.469] [info]  [SearchService]: isSearchable took 14.699999995529652 undefined
+[2025-08-29 09:38:01.559] [info]  [SearchService]: isSearchable took 35.69999999552965 undefined
+[2025-08-29 09:38:01.560] [info]  [SearchService]: isSearchable took 17.799999997019768 undefined
+[2025-08-29 13:00:31.302] [error] [SignalR] Connection disconnected with error 'Error: WebSocket closed with status code: 1006 (no reason given).'.
+[2025-08-29 13:14:09.958] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-29 13:14:09.963] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-29 13:14:09.976] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-29 13:14:10.220] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-29 13:14:10.224] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-29 13:14:10.228] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-29 13:14:10.228] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-08-29 13:14:10.344] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-29 13:14:10.355] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-08-29 13:14:10.356] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-08-29 13:14:10.700] [info]  [SignalR] WebSocket connected to wss://notifications.bitwarden.com/hub?access_token=[REDACTED]
+[2025-08-29 13:14:10.700] [info]  [SignalR] Using HubProtocol 'messagepack'.
+[2025-09-02 14:20:34.494] [info]  State version: 72
+[2025-09-02 14:20:34.501] [info]  Migrator MinVersionMigrator (to version 3) should migrate: false - up
+[2025-09-02 14:20:34.502] [info]  Migrator RemoveEverBeenUnlockedMigrator (to version 4) should migrate: false - up
+[2025-09-02 14:20:34.502] [info]  Migrator AddKeyTypeToOrgKeysMigrator (to version 5) should migrate: false - up
+[2025-09-02 14:20:34.502] [info]  Migrator RemoveLegacyEtmKeyMigrator (to version 6) should migrate: false - up
+[2025-09-02 14:20:34.503] [info]  Migrator MoveBiometricAutoPromptToAccount (to version 7) should migrate: false - up
+[2025-09-02 14:20:34.503] [info]  Migrator MoveStateVersionMigrator (to version 8) should migrate: false - up
+[2025-09-02 14:20:34.503] [info]  Migrator MoveBrowserSettingsToGlobal (to version 9) should migrate: false - up
+[2025-09-02 14:20:34.503] [info]  Migrator EverHadUserKeyMigrator (to version 10) should migrate: false - up
+[2025-09-02 14:20:34.503] [info]  Migrator OrganizationKeyMigrator (to version 11) should migrate: false - up
+[2025-09-02 14:20:34.504] [info]  Migrator MoveEnvironmentStateToProviders (to version 12) should migrate: false - up
+[2025-09-02 14:20:34.504] [info]  Migrator ProviderKeyMigrator (to version 13) should migrate: false - up
+[2025-09-02 14:20:34.504] [info]  Migrator MoveBiometricClientKeyHalfToStateProviders (to version 14) should migrate: false - up
+[2025-09-02 14:20:34.504] [info]  Migrator FolderMigrator (to version 15) should migrate: false - up
+[2025-09-02 14:20:34.504] [info]  Migrator LastSyncMigrator (to version 16) should migrate: false - up
+[2025-09-02 14:20:34.504] [info]  Migrator EnablePasskeysMigrator (to version 17) should migrate: false - up
+[2025-09-02 14:20:34.504] [info]  Migrator AutofillSettingsKeyMigrator (to version 18) should migrate: false - up
+[2025-09-02 14:20:34.504] [info]  Migrator RequirePasswordOnStartMigrator (to version 19) should migrate: false - up
+[2025-09-02 14:20:34.504] [info]  Migrator PrivateKeyMigrator (to version 20) should migrate: false - up
+[2025-09-02 14:20:34.504] [info]  Migrator CollectionMigrator (to version 21) should migrate: false - up
+[2025-09-02 14:20:34.505] [info]  Migrator CollapsedGroupingsMigrator (to version 22) should migrate: false - up
+[2025-09-02 14:20:34.505] [info]  Migrator MoveBiometricPromptsToStateProviders (to version 23) should migrate: false - up
+[2025-09-02 14:20:34.505] [info]  Migrator SmOnboardingTasksMigrator (to version 24) should migrate: false - up
+[2025-09-02 14:20:34.505] [info]  Migrator ClearClipboardDelayMigrator (to version 25) should migrate: false - up
+[2025-09-02 14:20:34.505] [info]  Migrator RevertLastSyncMigrator (to version 26) should migrate: false - up
+[2025-09-02 14:20:34.505] [info]  Migrator BadgeSettingsMigrator (to version 27) should migrate: false - up
+[2025-09-02 14:20:34.505] [info]  Migrator MoveBiometricUnlockToStateProviders (to version 28) should migrate: false - up
+[2025-09-02 14:20:34.505] [info]  Migrator UserNotificationSettingsKeyMigrator (to version 29) should migrate: false - up
+[2025-09-02 14:20:34.505] [info]  Migrator PolicyMigrator (to version 30) should migrate: false - up
+[2025-09-02 14:20:34.505] [info]  Migrator EnableContextMenuMigrator (to version 31) should migrate: false - up
+[2025-09-02 14:20:34.505] [info]  Migrator PreferredLanguageMigrator (to version 32) should migrate: false - up
+[2025-09-02 14:20:34.505] [info]  Migrator AppIdMigrator (to version 33) should migrate: false - up
+[2025-09-02 14:20:34.505] [info]  Migrator DomainSettingsMigrator (to version 34) should migrate: false - up
+[2025-09-02 14:20:34.505] [info]  Migrator MoveThemeToStateProviderMigrator (to version 35) should migrate: false - up
+[2025-09-02 14:20:34.506] [info]  Migrator VaultSettingsKeyMigrator (to version 36) should migrate: false - up
+[2025-09-02 14:20:34.506] [info]  Migrator AvatarColorMigrator (to version 37) should migrate: false - up
+[2025-09-02 14:20:34.506] [info]  Migrator TokenServiceStateProviderMigrator (to version 38) should migrate: false - up
+[2025-09-02 14:20:34.506] [info]  Migrator MoveBillingAccountProfileMigrator (to version 39) should migrate: false - up
+[2025-09-02 14:20:34.506] [info]  Migrator OrganizationMigrator (to version 40) should migrate: false - up
+[2025-09-02 14:20:34.506] [info]  Migrator EventCollectionMigrator (to version 41) should migrate: false - up
+[2025-09-02 14:20:34.506] [info]  Migrator EnableFaviconMigrator (to version 42) should migrate: false - up
+[2025-09-02 14:20:34.506] [info]  Migrator AutoConfirmFingerPrintsMigrator (to version 43) should migrate: false - up
+[2025-09-02 14:20:34.506] [info]  Migrator UserDecryptionOptionsMigrator (to version 44) should migrate: false - up
+[2025-09-02 14:20:34.506] [info]  Migrator MergeEnvironmentState (to version 45) should migrate: false - up
+[2025-09-02 14:20:34.506] [info]  Migrator DeleteBiometricPromptCancelledData (to version 46) should migrate: false - up
+[2025-09-02 14:20:34.506] [info]  Migrator MoveDesktopSettingsMigrator (to version 47) should migrate: false - up
+[2025-09-02 14:20:34.506] [info]  Migrator MoveDdgToStateProviderMigrator (to version 48) should migrate: false - up
+[2025-09-02 14:20:34.506] [info]  Migrator AccountServerConfigMigrator (to version 49) should migrate: false - up
+[2025-09-02 14:20:34.507] [info]  Migrator KeyConnectorMigrator (to version 50) should migrate: false - up
+[2025-09-02 14:20:34.507] [info]  Migrator RememberedEmailMigrator (to version 51) should migrate: false - up
+[2025-09-02 14:20:34.507] [info]  Migrator DeleteInstalledVersion (to version 52) should migrate: false - up
+[2025-09-02 14:20:34.507] [info]  Migrator DeviceTrustServiceStateProviderMigrator (to version 53) should migrate: false - up
+[2025-09-02 14:20:34.507] [info]  Migrator SendMigrator (to version 54) should migrate: false - up
+[2025-09-02 14:20:34.507] [info]  Migrator MoveMasterKeyStateToProviderMigrator (to version 55) should migrate: false - up
+[2025-09-02 14:20:34.507] [info]  Migrator AuthRequestMigrator (to version 56) should migrate: false - up
+[2025-09-02 14:20:34.507] [info]  Migrator CipherServiceMigrator (to version 57) should migrate: false - up
+[2025-09-02 14:20:34.507] [info]  Migrator RemoveRefreshTokenMigratedFlagMigrator (to version 58) should migrate: false - up
+[2025-09-02 14:20:34.507] [info]  Migrator KdfConfigMigrator (to version 59) should migrate: false - up
+[2025-09-02 14:20:34.507] [info]  Migrator KnownAccountsMigrator (to version 60) should migrate: false - up
+[2025-09-02 14:20:34.507] [info]  Migrator PinStateMigrator (to version 61) should migrate: false - up
+[2025-09-02 14:20:34.507] [info]  Migrator VaultTimeoutSettingsServiceStateProviderMigrator (to version 62) should migrate: false - up
+[2025-09-02 14:20:34.507] [info]  Migrator PasswordOptionsMigrator (to version 63) should migrate: false - up
+[2025-09-02 14:20:34.507] [info]  Migrator GeneratorHistoryMigrator (to version 64) should migrate: false - up
+[2025-09-02 14:20:34.507] [info]  Migrator ForwarderOptionsMigrator (to version 65) should migrate: false - up
+[2025-09-02 14:20:34.507] [info]  Migrator MoveFinalDesktopSettingsMigrator (to version 66) should migrate: false - up
+[2025-09-02 14:20:34.507] [info]  Migrator RemoveUnassignedItemsBannerDismissed (to version 67) should migrate: false - up
+[2025-09-02 14:20:34.508] [info]  Migrator MoveLastSyncDate (to version 68) should migrate: false - up
+[2025-09-02 14:20:34.508] [info]  Migrator MigrateIncorrectFolderKey (to version 69) should migrate: false - up
+[2025-09-02 14:20:34.508] [info]  Migrator RemoveAcBannersDismissed (to version 70) should migrate: false - up
+[2025-09-02 14:20:34.508] [info]  Migrator RemoveNewCustomizationOptionsCalloutDismissed (to version 71) should migrate: false - up
+[2025-09-02 14:20:34.508] [info]  Migrator RemoveAccountDeprovisioningBannerDismissed (to version 72) should migrate: false - up
+[2025-09-02 14:20:34.688] [info]  Coredumps are disabled in renderer process
+[2025-09-02 14:20:34.688] [info]  Disabling memory dumps in main process
+[2025-09-02 14:20:35.598] [info]  [Native Messaging IPC] Clearing connected apps
+[2025-09-02 14:20:35.604] [info]  State version: 72
+[2025-09-02 14:20:35.621] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 14:20:35.698] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 14:20:35.749] [info]  Retrieving application id
+[2025-09-02 14:20:36.169] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 14:20:36.180] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 14:20:36.184] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 14:20:36.186] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-02 14:20:36.227] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 14:20:36.231] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 14:20:36.232] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-02 14:20:36.274] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 14:20:36.278] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 14:20:37.995] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 14:20:40.457] [info]  [KeyService] Deriving master key took 584ms
+[2025-09-02 14:20:40.550] [info]  Vault unlocked 2025-09-02T20:20:40.550Z
+[2025-09-02 14:20:40.570] [info]  Using SignalR for notifications
+[2025-09-02 14:20:40.579] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 14:20:40.589] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 14:20:40.615] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 14:20:40.627] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 14:20:40.630] [error] [Credential Storage Listener] deletePassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 14:20:40.640] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 14:20:40.824] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 14:20:40.837] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 14:20:40.931] [info]  [SignalR] WebSocket connected to wss://notifications.bitwarden.com/hub?access_token=[REDACTED]
+[2025-09-02 14:20:40.932] [info]  [SignalR] Using HubProtocol 'messagepack'.
+[2025-09-02 14:20:41.010] [info]  [LockComponent] Sync took 278ms
+[2025-09-02 14:20:41.011] [info]  [LockComponent] Private key regeneration took 1ms
+[2025-09-02 14:20:41.036] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 14:20:41.095] [info]  [SearchService]: isSearchable took 5.200000002980232 undefined
+[2025-09-02 14:20:41.118] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 14:20:41.347] [info]  [CipherService]: decrypt complete took 184.70000000298023 [ [ 'Items', 1484 ] ]
+[2025-09-02 14:20:41.425] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 14:20:41.723] [info]  [SearchService]: index complete took 329.1000000089407 [ [ 'Items', 1484 ] ]
+[2025-09-02 14:20:41.785] [info]  [SearchService]: isSearchable took 36.20000000298023 undefined
+[2025-09-02 14:20:42.073] [info]  [SearchService]: index complete took 288.09999999403954 [ [ 'Items', 1484 ] ]
+[2025-09-02 14:20:44.731] [info]  [SearchService]: isSearchable took 91.59999999403954 undefined
+[2025-09-02 14:20:44.732] [info]  [SearchService]: isSearchable took 64.3999999910593 undefined
+[2025-09-02 14:20:44.787] [info]  [SearchService]: isSearchable took 51 undefined
+[2025-09-02 14:20:44.787] [info]  [SearchService]: isSearchable took 21.899999991059303 undefined
+[2025-09-02 14:20:44.954] [info]  [SearchService]: isSearchable took 50.6000000089407 undefined
+[2025-09-02 14:20:44.955] [info]  [SearchService]: isSearchable took 24.899999991059303 undefined
+[2025-09-02 14:20:45.232] [info]  [SearchService]: isSearchable took 59.19999998807907 undefined
+[2025-09-02 14:20:45.233] [info]  [SearchService]: isSearchable took 29.599999994039536 undefined
+[2025-09-02 14:20:45.529] [info]  [SearchService]: isSearchable took 69 undefined
+[2025-09-02 14:20:45.531] [info]  [SearchService]: isSearchable took 24.799999997019768 undefined
+[2025-09-02 14:20:45.652] [info]  [SearchService]: isSearchable took 49.6000000089407 undefined
+[2025-09-02 14:20:45.653] [info]  [SearchService]: isSearchable took 23.30000001192093 undefined
+[2025-09-02 14:20:45.774] [info]  [SearchService]: isSearchable took 57.599999994039536 undefined
+[2025-09-02 14:20:45.775] [info]  [SearchService]: isSearchable took 25.399999991059303 undefined
+[2025-09-02 14:20:50.317] [info]  [SearchService]: isSearchable took 73.09999999403954 undefined
+[2025-09-02 14:20:50.318] [info]  [SearchService]: isSearchable took 56.80000001192093 undefined
+[2025-09-02 14:20:50.464] [info]  [SearchService]: isSearchable took 58 undefined
+[2025-09-02 14:20:50.465] [info]  [SearchService]: isSearchable took 25.5 undefined
+[2025-09-02 14:20:50.615] [info]  [SearchService]: isSearchable took 53.70000000298023 undefined
+[2025-09-02 14:20:50.616] [info]  [SearchService]: isSearchable took 27.599999994039536 undefined
+[2025-09-02 14:20:50.732] [info]  [SearchService]: isSearchable took 46.6000000089407 undefined
+[2025-09-02 14:20:50.733] [info]  [SearchService]: isSearchable took 22.399999991059303 undefined
+[2025-09-02 14:49:33.046] [info]  Using SignalR for notifications
+[2025-09-02 14:49:33.047] [info]  [SignalR] Connection disconnected.
+[2025-09-02 14:49:33.051] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 14:49:33.054] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 14:49:33.350] [info]  [SignalR] WebSocket connected to wss://notifications.bitwarden.com/hub?access_token=[REDACTED]
+[2025-09-02 14:49:33.351] [info]  [SignalR] Using HubProtocol 'messagepack'.
+[2025-09-02 20:25:35.962] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 20:25:35.965] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 20:25:35.977] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 20:25:36.244] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 20:25:36.248] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 20:25:36.251] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 20:25:36.251] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-02 20:25:36.293] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 20:25:36.307] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-02 20:25:36.307] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-02 20:25:36.688] [info]  [SearchService]: isSearchable took 112.40000000596046 undefined
+[2025-09-03 02:25:37.589] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 02:25:37.595] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 02:25:37.611] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 02:25:37.864] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 02:25:37.868] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 02:25:37.872] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 02:25:37.872] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-03 02:25:37.987] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 02:25:38.000] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 02:25:38.001] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-03 02:25:38.291] [info]  [SearchService]: isSearchable took 54.900000005960464 undefined
+[2025-09-03 04:45:12.823] [error] [SignalR] Connection disconnected with error 'Error: WebSocket closed with status code: 1006 (no reason given).'.
+[2025-09-03 04:47:37.514] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 04:47:37.520] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 04:47:37.535] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 04:47:38.976] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 04:47:38.980] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 04:47:38.984] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 04:47:38.984] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-03 04:47:39.047] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 04:47:39.061] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 04:47:39.062] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-03 04:47:40.265] [info]  [SignalR] WebSocket connected to wss://notifications.bitwarden.com/hub?access_token=[REDACTED]
+[2025-09-03 04:47:40.266] [info]  [SignalR] Using HubProtocol 'messagepack'.
+[2025-09-03 08:25:39.130] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 08:25:39.134] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 08:25:39.146] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 08:25:39.400] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 08:25:39.404] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 08:25:39.409] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 08:25:39.409] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-03 08:25:39.470] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 08:25:39.489] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 08:25:39.489] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-03 08:25:39.770] [info]  [SearchService]: isSearchable took 54.400000005960464 undefined
+[2025-09-03 11:55:45.633] [error] [SignalR] Connection disconnected with error 'Error: WebSocket closed with status code: 1006 (no reason given).'.
+[2025-09-03 11:57:47.590] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 11:57:47.596] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 11:57:47.620] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 11:57:47.882] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 11:57:47.887] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 11:57:47.893] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 11:57:47.894] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-03 11:57:48.041] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 11:57:48.087] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 11:57:48.088] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-03 11:57:48.446] [info]  [SignalR] WebSocket connected to wss://notifications.bitwarden.com/hub?access_token=[REDACTED]
+[2025-09-03 11:57:48.447] [info]  [SignalR] Using HubProtocol 'messagepack'.
+[2025-09-03 14:25:40.750] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 14:25:40.755] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 14:25:40.768] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 14:25:41.001] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 14:25:41.006] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 14:25:41.011] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 14:25:41.011] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-03 14:25:41.044] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 14:25:41.065] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 14:25:41.065] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-03 14:25:41.323] [info]  [SearchService]: isSearchable took 50.80000001192093 undefined
+[2025-09-03 20:25:42.231] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 20:25:42.235] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 20:25:42.247] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 20:25:42.526] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 20:25:42.529] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 20:25:42.532] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 20:25:42.533] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-03 20:25:42.566] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 20:25:42.588] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 20:25:42.588] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-03 20:25:42.858] [info]  [SearchService]: isSearchable took 53.099999994039536 undefined
+[2025-09-03 23:26:45.890] [error] [SignalR] Connection disconnected with error 'Error: WebSocket closed with status code: 1006 (no reason given).'.
+[2025-09-03 23:31:40.184] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 23:31:40.189] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 23:31:40.204] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 23:31:40.485] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 23:31:40.489] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 23:31:40.493] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 23:31:40.494] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-03 23:31:40.616] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 23:31:40.642] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-03 23:31:40.644] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-03 23:31:40.980] [info]  [SignalR] WebSocket connected to wss://notifications.bitwarden.com/hub?access_token=[REDACTED]
+[2025-09-03 23:31:40.980] [info]  [SignalR] Using HubProtocol 'messagepack'.
+[2025-09-04 02:25:43.755] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 02:25:43.759] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 02:25:43.776] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 02:25:44.013] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 02:25:44.016] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 02:25:44.020] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 02:25:44.020] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-04 02:25:44.145] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 02:25:44.175] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 02:25:44.176] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-04 02:25:44.461] [info]  [SearchService]: isSearchable took 45.5 undefined
+[2025-09-04 08:22:55.647] [error] [SignalR] Connection disconnected with error 'Error: WebSocket closed with status code: 1006 (no reason given).'.
+[2025-09-04 08:25:45.509] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 08:25:45.516] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 08:25:45.533] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 08:25:45.925] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 08:25:45.932] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 08:25:45.936] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 08:25:45.937] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-04 08:25:45.970] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 08:25:46.001] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 08:25:46.002] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-04 08:25:46.298] [info]  [SearchService]: isSearchable took 69 undefined
+[2025-09-04 08:27:07.109] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 08:27:07.112] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 08:27:07.952] [info]  [SignalR] WebSocket connected to wss://notifications.bitwarden.com/hub?access_token=[REDACTED]
+[2025-09-04 08:27:07.952] [info]  [SignalR] Using HubProtocol 'messagepack'.
+[2025-09-04 14:25:47.082] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 14:25:47.085] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 14:25:47.097] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 14:25:47.350] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 14:25:47.354] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 14:25:47.357] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 14:25:47.357] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-04 14:25:47.396] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 14:25:47.435] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 14:25:47.436] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-04 14:25:47.720] [info]  [SearchService]: isSearchable took 47.30000001192093 undefined
+[2025-09-04 17:46:56.700] [info]  Retrieving application id
+[2025-09-04 17:46:56.718] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 17:46:56.721] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 17:46:56.734] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 17:46:56.995] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 17:46:56.998] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 17:46:57.001] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 17:46:57.002] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-04 17:46:57.042] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 17:46:57.081] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 17:46:57.082] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-04 17:46:57.368] [info]  [SearchService]: isSearchable took 78.29999995231628 undefined
+[2025-09-04 17:46:57.526] [info]  [SearchService]: isSearchable took 18.69999998807907 undefined
+[2025-09-04 17:46:57.716] [info]  [CipherService]: decrypt complete took 95.59999996423721 [ [ 'Items', 1485 ] ]
+[2025-09-04 17:46:57.878] [info]  [SearchService]: index complete took 139.39999997615814 [ [ 'Items', 1485 ] ]
+[2025-09-04 17:46:57.899] [info]  [SearchService]: isSearchable took 20.700000047683716 undefined
+[2025-09-04 17:46:57.971] [info]  [SearchService]: isSearchable took 17.30000001192093 undefined
+[2025-09-04 17:46:58.130] [info]  [SearchService]: index complete took 159.10000002384186 [ [ 'Items', 1485 ] ]
+[2025-09-04 20:25:48.548] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 20:25:48.552] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 20:25:48.563] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 20:25:48.820] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 20:25:48.824] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 20:25:48.828] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 20:25:48.828] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-04 20:25:48.921] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 20:25:48.959] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-04 20:25:48.960] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-04 20:25:49.266] [info]  [SearchService]: isSearchable took 54.39999997615814 undefined
+[2025-09-05 02:25:50.146] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 02:25:50.151] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 02:25:50.165] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 02:25:50.391] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 02:25:50.395] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 02:25:50.401] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 02:25:50.401] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-05 02:25:50.462] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 02:25:50.506] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 02:25:50.507] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-05 02:25:50.789] [info]  [SearchService]: isSearchable took 45.89999997615814 undefined
+[2025-09-05 08:25:51.683] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 08:25:51.688] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 08:25:51.701] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 08:25:52.078] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 08:25:52.084] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 08:25:52.088] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 08:25:52.089] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-05 08:25:52.159] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 08:25:52.205] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 08:25:52.206] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-05 08:25:52.489] [info]  [SearchService]: isSearchable took 45.10000002384186 undefined
+[2025-09-05 14:25:53.341] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 14:25:53.346] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 14:25:53.359] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 14:25:53.624] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 14:25:53.629] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 14:25:53.633] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 14:25:53.634] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-05 14:25:53.666] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 14:25:53.715] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 14:25:53.716] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-05 14:25:54.000] [info]  [SearchService]: isSearchable took 67.09999996423721 undefined
+[2025-09-05 20:25:54.880] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 20:25:54.885] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 20:25:54.897] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 20:25:55.165] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 20:25:55.170] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 20:25:55.175] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 20:25:55.176] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-05 20:25:55.247] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 20:25:55.302] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-05 20:25:55.303] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-05 20:25:55.578] [info]  [SearchService]: isSearchable took 50.700000047683716 undefined
+[2025-09-06 02:25:56.337] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 02:25:56.341] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 02:25:56.354] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 02:25:57.416] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 02:25:57.420] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 02:25:57.424] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 02:25:57.424] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-06 02:25:57.505] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 02:25:57.562] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 02:25:57.563] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-06 02:26:01.227] [info]  [SearchService]: isSearchable took 53.5 undefined
+[2025-09-06 08:26:02.200] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 08:26:02.206] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 08:26:02.217] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 08:26:02.452] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 08:26:02.455] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 08:26:02.459] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 08:26:02.460] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-06 08:26:02.496] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 08:26:02.556] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 08:26:02.556] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-06 08:26:02.832] [info]  [SearchService]: isSearchable took 44.39999997615814 undefined
+[2025-09-06 14:26:03.853] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 14:26:03.857] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 14:26:03.870] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 14:26:04.121] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 14:26:04.124] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 14:26:04.130] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 14:26:04.131] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-06 14:26:04.166] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 14:26:04.225] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 14:26:04.226] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-06 14:26:04.479] [info]  [SearchService]: isSearchable took 43.60000002384186 undefined
+[2025-09-06 20:26:05.509] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 20:26:05.515] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 20:26:05.527] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 20:26:05.782] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 20:26:05.785] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 20:26:05.790] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 20:26:05.791] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-06 20:26:05.827] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 20:26:05.893] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 20:26:05.894] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-06 20:26:06.178] [info]  [SearchService]: isSearchable took 43.80000001192093 undefined
+[2025-09-06 22:44:08.726] [info]  Retrieving application id
+[2025-09-06 22:44:08.743] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 22:44:08.748] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 22:44:08.761] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 22:44:09.016] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 22:44:09.018] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 22:44:09.020] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 22:44:09.021] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-06 22:44:09.141] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 22:44:09.212] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-06 22:44:09.214] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-06 22:44:09.529] [info]  [SearchService]: isSearchable took 82.70000004768372 undefined
+[2025-09-06 22:44:09.679] [info]  [SearchService]: isSearchable took 24.69999998807907 undefined
+[2025-09-06 22:44:09.846] [info]  [CipherService]: decrypt complete took 83.60000002384186 [ [ 'Items', 1485 ] ]
+[2025-09-06 22:44:09.993] [info]  [SearchService]: index complete took 126.60000002384186 [ [ 'Items', 1485 ] ]
+[2025-09-06 22:44:10.020] [info]  [SearchService]: isSearchable took 27.299999952316284 undefined
+[2025-09-06 22:44:10.087] [info]  [SearchService]: isSearchable took 15.699999988079071 undefined
+[2025-09-06 22:44:10.242] [info]  [SearchService]: index complete took 155.4000000357628 [ [ 'Items', 1485 ] ]
+[2025-09-07 02:26:06.975] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 02:26:06.980] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 02:26:06.990] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 02:26:07.218] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 02:26:07.223] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 02:26:07.226] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 02:26:07.227] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-07 02:26:07.258] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 02:26:07.329] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 02:26:07.330] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-07 02:26:07.517] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 02:26:07.677] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 02:26:07.681] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 02:26:07.686] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 02:26:07.687] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-07 02:26:07.723] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 02:26:07.797] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 02:26:07.798] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-07 02:26:07.839] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 02:26:07.843] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 02:26:09.287] [info]  [SearchService]: isSearchable took 38.5 undefined
+[2025-09-07 02:26:09.521] [info]  [SearchService]: index complete took 233 [ [ 'Items', 1485 ] ]
+[2025-09-07 02:26:09.579] [info]  [SearchService]: isSearchable took 19.599999964237213 undefined
+[2025-09-07 02:26:09.744] [info]  [SearchService]: index complete took 164.5 [ [ 'Items', 1485 ] ]
+[2025-09-07 02:26:09.800] [info]  [SearchService]: isSearchable took 19.5 undefined
+[2025-09-07 02:26:09.963] [info]  [SearchService]: index complete took 162.80000001192093 [ [ 'Items', 1485 ] ]
+[2025-09-07 02:26:10.136] [info]  [SearchService]: isSearchable took 43.59999996423721 undefined
+[2025-09-07 02:26:10.136] [info]  [SearchService]: isSearchable took 23.5 undefined
+[2025-09-07 02:26:10.223] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 02:26:10.318] [info]  [SearchService]: isSearchable took 15.199999988079071 undefined
+[2025-09-07 02:26:10.559] [info]  [CipherService]: decrypt complete took 85.59999996423721 [ [ 'Items', 1485 ] ]
+[2025-09-07 02:26:10.693] [info]  [SearchService]: index complete took 114.69999998807907 [ [ 'Items', 1485 ] ]
+[2025-09-07 02:26:10.722] [info]  [SearchService]: isSearchable took 28 undefined
+[2025-09-07 02:26:10.804] [info]  [SearchService]: isSearchable took 18.5 undefined
+[2025-09-07 02:26:10.963] [info]  [SearchService]: index complete took 158.30000001192093 [ [ 'Items', 1485 ] ]
+[2025-09-07 02:26:11.046] [info]  [SearchService]: isSearchable took 28.599999964237213 undefined
+[2025-09-07 02:26:11.135] [info]  [SearchService]: isSearchable took 18 undefined
+[2025-09-07 08:26:12.133] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 08:26:12.138] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 08:26:12.153] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 08:26:17.194] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 08:26:17.198] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 08:26:17.224] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 08:26:17.225] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-07 08:26:17.291] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 08:26:17.367] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 08:26:17.368] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-07 08:26:17.626] [info]  [SearchService]: isSearchable took 41.5 undefined
+[2025-09-07 14:26:18.504] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 14:26:18.510] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 14:26:18.525] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 14:26:18.767] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 14:26:18.771] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 14:26:18.774] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 14:26:18.774] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-07 14:26:18.896] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 14:26:18.976] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 14:26:18.977] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-07 14:26:19.296] [info]  [SearchService]: isSearchable took 80.69999998807907 undefined
+[2025-09-07 20:26:20.218] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 20:26:20.223] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 20:26:20.236] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 20:26:20.522] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 20:26:20.526] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 20:26:20.530] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 20:26:20.531] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-07 20:26:20.569] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 20:26:20.651] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-07 20:26:20.652] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-07 20:26:20.983] [info]  [SearchService]: isSearchable took 59 undefined
+[2025-09-08 00:17:22.710] [error] [SignalR] Connection disconnected with error 'Error: WebSocket closed with status code: 1006 (no reason given).'.
+[2025-09-08 00:22:05.270] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 00:22:05.274] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 00:22:05.290] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 00:22:05.535] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 00:22:05.538] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 00:22:05.541] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 00:22:05.541] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-08 00:22:05.664] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 00:22:05.746] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 00:22:05.747] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-08 00:22:06.109] [info]  [SignalR] WebSocket connected to wss://notifications.bitwarden.com/hub?access_token=[REDACTED]
+[2025-09-08 00:22:06.109] [info]  [SignalR] Using HubProtocol 'messagepack'.
+[2025-09-08 02:26:22.011] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 02:26:22.015] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 02:26:22.032] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 02:26:22.259] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 02:26:22.263] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 02:26:22.267] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 02:26:22.268] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-08 02:26:22.303] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 02:26:22.387] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 02:26:22.388] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-08 02:26:22.684] [info]  [SearchService]: isSearchable took 69.40000009536743 undefined
+[2025-09-08 08:26:23.663] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 08:26:23.668] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 08:26:23.678] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 08:26:23.925] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 08:26:23.929] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 08:26:23.932] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 08:26:23.932] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-08 08:26:24.049] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 08:26:24.140] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 08:26:24.141] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-08 08:26:24.448] [info]  [SearchService]: isSearchable took 43.89999997615814 undefined
+[2025-09-08 11:49:49.156] [info]  Using SignalR for notifications
+[2025-09-08 11:49:49.157] [info]  [SignalR] Connection disconnected.
+[2025-09-08 11:49:49.161] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 11:49:49.165] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 11:49:49.178] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 11:49:49.462] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 11:49:49.465] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 11:49:49.467] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 11:49:49.468] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-08 11:49:49.509] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 11:49:49.606] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 11:49:49.607] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-08 11:49:49.709] [info]  [SignalR] (WebSockets transport) There was an error with the transport.
+[2025-09-08 11:49:49.709] [error] [SignalR] Failed to start the connection: Error: WebSocket failed to connect. The connection could not be found on the server, either the endpoint may not be a SignalR endpoint, the connection ID is not present on the server, or there is a proxy blocking WebSockets. If you have multiple servers check that sticky sessions are enabled.
+[2025-09-08 11:54:46.465] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 11:54:46.470] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 11:54:46.785] [info]  [SignalR] WebSocket connected to wss://notifications.bitwarden.com/hub?access_token=[REDACTED]
+[2025-09-08 11:54:46.786] [info]  [SignalR] Using HubProtocol 'messagepack'.
+[2025-09-08 14:26:25.486] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 14:26:25.491] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 14:26:25.504] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 14:26:25.762] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 14:26:25.766] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 14:26:25.770] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 14:26:25.770] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2025-09-08 14:26:25.838] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 14:26:25.938] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 14:26:25.939] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2025-09-08 14:26:26.231] [info]  [SearchService]: isSearchable took 41.800000071525574 undefined
+[2025-09-08 15:16:45.888] [info]  Retrieving application id
+[2025-09-08 15:16:45.903] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 15:16:45.909] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2025-09-08 15:16:46.131] [info]  [SearchService]: isSearchable took 34.200000047683716 undefined
+[2025-09-08 15:16:46.409] [info]  [SearchService]: isSearchable took 19.5 undefined
+[2025-09-08 15:16:46.575] [info]  [CipherService]: decrypt complete took 85.10000002384186 [ [ 'Items', 1485 ] ]
+[2025-09-08 15:16:46.722] [info]  [SearchService]: index complete took 127.20000004768372 [ [ 'Items', 1485 ] ]
+[2025-09-08 15:16:46.741] [info]  [SearchService]: isSearchable took 18.700000047683716 undefined
+[2025-09-08 15:16:46.829] [info]  [SearchService]: isSearchable took 16.899999976158142 undefined
+[2025-09-08 15:16:46.989] [info]  [SearchService]: index complete took 159.40000009536743 [ [ 'Items', 1485 ] ]
+[2025-09-08 16:08:43.260] [info]  Autotype disabled.

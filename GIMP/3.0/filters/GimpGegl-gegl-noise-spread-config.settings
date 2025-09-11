@@ -1,0 +1,9 @@
+# settings
+
+(GimpGegl-gegl-noise-spread-config "2025-08-26 07:29:49"
+    (time 1756193389)
+    (amount-x 28)
+    (amount-y 28)
+    (seed 0))
+
+# end of settings

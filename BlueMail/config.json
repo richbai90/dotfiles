@@ -1,0 +1,21 @@
+{
+	"windowState": {
+		"isMaximized": false,
+		"isFullScreen": false,
+		"width": 626,
+		"height": 490,
+		"x": 647,
+		"y": 568
+	},
+	"systemInfo": {
+		"platform": "linux",
+		"version": "6.16.4-arch1-1",
+		"device_os": "Linux",
+		"device_model": "GTi14",
+		"device_product": "GTi14",
+		"manufacturer": "AZW",
+		"distro": "Arch"
+	},
+	"auto_start_mode": "minimized",
+	"alreadyExpanded": false
+}
