@@ -1,6 +1,9 @@
 # GIMP gimp-text-tool options
 
+(foreground
+    (color "R'G'B'A u8" 4 "\243Q\373\377" 0))
 (palette "Color History")
-(font "Sans-serif")
+(font "Monospace")
+(font-size 23)
 
 # end of gimp-text-tool options

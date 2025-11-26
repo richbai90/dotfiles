@@ -1,4 +1,7 @@
-export PATH="$HOME/.python/.venv/bin:$PATH"
 export PATH="$HOME/.local/bin:$PATH"
 export ELECTRON_OZONE_PLATFORM_HINT=wayland
-export DISPLAY=:0
+export DISPLAY=:1
+export GEMINI_API_KEY=AIzaSyDmPo2k5QJ9YbfQ3Un5oRcOeYxj5mMvej8
+export HUGGINGFACE_HUB_ACCESS_TOKEN=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
+export AVANTE_OPENAI_API_KEY=secret
+

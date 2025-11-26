@@ -2,8 +2,8 @@ return {
   'ggandor/leap.nvim',
   config = function()
     local leap = require('leap')
-    leap.set_default_mappings()
-
+    -- leap.set_default_mappings()
+    vim.keymap.set({ "n", "x", "o" }, "s", "<Plug>(leap-forward-to)")
     -- This makes the built-in f, F, t, and T motions use Leap
     vim.keymap.set({ "n", "x", "o" }, "f", "<Plug>(leap-forward-to)")
     vim.keymap.set({ "n", "x", "o" }, "F", "<Plug>(leap-backward-to)")

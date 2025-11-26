@@ -2,14 +2,26 @@ return {
   "folke/which-key.nvim",
   event = "VeryLazy",
   opts = {
-    -- your configuration comes here
-    -- or leave it empty to use the default settings
-    -- refer to the configuration section below
     preset = "modern",
     filter = function(mapping)
-	    return mapping.desc and mapping.desc ~= "" 
+      return mapping.desc and mapping.desc ~= ""
     end,
-    spec = {},
+    
+    -- 
+    -- THIS IS THE FIX:
+    --
+    spec = {
+      -- Tell 'g' to include buffer-local maps
+      { "g", group = "Go", mode = "n" },
+      { "<LocalLeader>", group = "Local Bindings", mode = "n" },
+    },
+    
+    -- Use "auto" to find ALL prefixes (g, ,, and ;)
+    
+    keys = {
+      scroll_down = "<c-d>",
+      scroll_up = "<c-u>",
+    },
   },
   keys = {
     {
@@ -19,21 +31,5 @@ return {
       end,
       desc = "Buffer Local Keymaps (which-key)",
     },
-    scroll_down = "<c-d>",
-    scroll_up = "<c-u>",
-    -- Add all leap motion keys to the ignore list
-    ["<leader>"] = "", -- ignore leader, it has its own trigger
-    ["<space>"] = "", -- ignore localleader
-    ["'"] = "",
-    ["`"] = "",
-    ['"'] = "",
-    ["c"] = "",
-    ["d"] = "",
-    ["g"] = "",
-    ["s"] = "", -- This is the key causing your issue
-    ["t"] = "",
-    ["v"] = "",
-    ["x"] = "",
-    ["y"] = "",
   },
 }

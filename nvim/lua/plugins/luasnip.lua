@@ -60,5 +60,22 @@ return {
       expr = true,
       desc = "Change to the next choice (select mode)",
     },
-  }
+  },
+  config = function(_, opts)
+    -- This first line is important: it calls setup with the options from `opts`
+    require("luasnip").setup(opts)
+
+    -- ADD YOUR SNIPPET LOADING LOGIC HERE
+    -- 1. Load VS Code snippets
+    require("luasnip.loaders.from_vscode").lazy_load({
+      paths = { vim.fn.expand("~/.vscode/extensions/nvim-snippets/") }, -- Your directory for JSON snippets
+    })
+
+    -- 2. Load custom Lua snippets for MATLAB
+    require("luasnip").filetype_extend("matlab", { "all" })
+    require("luasnip").add_snippets("matlab", require("snippets.matlab"))
+    
+    -- ADD YOUR CMP ACTIONS HERE
+    -- This is a great place for them, as it's imperative setup logic
+  end,
 }

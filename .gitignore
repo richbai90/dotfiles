@@ -1,0 +1,45 @@
+# Ignore everything
+*
+
+# un-ignore the gitignore itself
+!.gitignore
+
+# --- Explicitly Un-ignore the tools you use ---
+# Add directories with a trailing slash, then the contents
+
+# Hyprland
+!hypr/
+!hypr/**
+
+# Neovim
+!nvim/
+!nvim/**
+# (Optional: Re-ignore specific nvim junk)
+nvim/undo/
+
+# Shell/Terminal
+!alacritty/
+!alacritty/**
+!kitty/
+!kitty/**
+!fish/
+!fish/**
+!zsh/
+
+# Git/Jujutsu
+!git/
+# (Optional: Re-ignore specific nvim junk)
+nvim/undo/
+
+# Shell/Terminal
+!alacritty/
+!alacritty/**
+!kitty/
+!kitty/**
+!fish/
+!fish/**
+!zsh/
+
+# Git/Jujutsu
+!git/
+!jj/

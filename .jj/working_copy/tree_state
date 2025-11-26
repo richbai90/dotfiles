@@ -3001,7 +3001,7 @@ $GIMP/3.0/tool-options/gimp-zoom-tool	õ×ï¶‘3@
 )Slack/Cache/Cache_Data/fff62cbf119a027f_0
 ¾Ø¯3Î()
 Slack/Cache/Cache_Data/index	‰Ö¨Ô3>
-/Slack/Cache/Cache_Data/index-dir/the-real-index‰ˆÂÖ“3ĞÕ4
+/Slack/Cache/Cache_Data/index-dir/the-real-indexä¿Œ×“3ĞÕ4
 &Slack/Code Cache/js/01e4d144943ae730_0
 ¬¹š­‘3€5
 &Slack/Code Cache/js/01efe676da1f9e8c_0«¹š­‘3Ä„4
@@ -3126,8 +3126,8 @@ $GIMP/3.0/tool-options/gimp-zoom-tool	õ×ï¶‘3@
 •åïÒ“3È(
 Slack/Code Cache/wasm/index	ÉÕ¨Ô3;
 .Slack/Code Cache/wasm/index-dir/the-real-index	ÊÕ¨Ô30
-Slack/CookiesµÖÂÖ“3€  
-Slack/Cookies-journal¶ÖÂÖ“3%
+Slack/CookiesÕ×“3€  
+Slack/Cookies-journal××“3%
 Slack/Crashpad/client_id	µÕ¨Ô3$(
 Slack/Crashpad/settings.dat	±¨à¦“3(
 
@@ -3135,7 +3135,7 @@ Slack/DIPSª°‡’3€ 
 Slack/DIPS-walÖ°…Ö“3à»û,
 Slack/DawnGraphiteCache/data_0
 ¶Ö¨Ô3€@-
-Slack/DawnGraphiteCache/data_1ÜàĞÖ“3€À,
+Slack/DawnGraphiteCache/data_1Û‡×“3€À,
 Slack/DawnGraphiteCache/data_2
 ¶Ö¨Ô3€@,
 Slack/DawnGraphiteCache/data_3
@@ -3143,7 +3143,7 @@ Slack/DIPSª°‡’3€ 
 Slack/DawnGraphiteCache/index¡¬à¦“3ğ‚*
 Slack/DawnWebGPUCache/data_0
 µÖ¨Ô3€@+
-Slack/DawnWebGPUCache/data_1ÜàĞÖ“3€À*
+Slack/DawnWebGPUCache/data_1Û‡×“3€À*
 Slack/DawnWebGPUCache/data_2
 µÖ¨Ô3€@*
 Slack/DawnWebGPUCache/data_3
@@ -3151,7 +3151,7 @@ Slack/DIPSª°‡’3€ 
 Slack/DawnWebGPUCache/indexœ¬à¦“3ğ‚1
 "Slack/Dictionaries/en-US-10-1.bdicÍ×¨Ô3€Ë$
 Slack/GPUCache/data_0‚‡£Ô“3€à$
-Slack/GPUCache/data_1ÜàĞÖ“3€À0$
+Slack/GPUCache/data_1Û‡×“3€À0$
 Slack/GPUCache/data_2Î€£Ô“3€À@#
 Slack/GPUCache/data_3
 µÖ¨Ô3€@#
@@ -3168,7 +3168,7 @@ BSlack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000005.ldb‚ï™­‘3Ìˆ
 GSlack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001	ˆï™­‘3x5
 &Slack/Local Storage/leveldb/000005.ldbŠ®é3ê˜4
 &Slack/Local Storage/leveldb/000269.log
-©ÎÙÖ“3„N5
+¥š”×“3ôZ5
 &Slack/Local Storage/leveldb/000271.ldb–¸ÙÕ“3Ñ0
 #Slack/Local Storage/leveldb/CURRENT	ÌÕ¨Ô3+
  Slack/Local Storage/leveldb/LOCKÈÕ¨Ô3-
@@ -5454,26 +5454,26 @@ TSlack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/inde
 Slack/SingletonLockÊ§à¦“3"$
 Slack/SingletonSocketÊ§à¦“3%%
 Slack/TransportSecurity
-ØšÂÖ“3É
+Ÿâ†×“3Ê
 !
 Slack/Trust Tokensà®3€ %
 Slack/Trust Tokens-journalà®3&
 Slack/VideoDecodeStats/LOCKıÉ¿¶‘3%
 Slack/VideoDecodeStats/LOGş¿µÏ“3)
 Slack/VideoDecodeStats/LOG.oldıÉ¿¶‘3,
-Slack/WebStorage/QuotaManager®ÖÂÖ“3€À0
-%Slack/WebStorage/QuotaManager-journal±ÖÂÖ“3
+Slack/WebStorage/QuotaManagerÒ×“3€À0
+%Slack/WebStorage/QuotaManager-journalÔ×“3
 Slack/installation	äÔ¨Ô30'
 Slack/local-settings.json
 •°…Ö“3ª-
-Slack/logs/default/browser.logı…·Ö“3Ø»g5
-%Slack/logs/default/webapp-console.logüèÕÖ“3ì ‰6
+Slack/logs/default/browser.logïãÖ“3¢Ÿh5
+%Slack/logs/default/webapp-console.logàŒ×“3ÓÈ‰6
 &Slack/logs/default/webapp-console1.log¶øéá’3²€À6
 &Slack/logs/default/webapp-console2.logˆ¬ÏÃ’3¬‡ÀD
 4Slack/logs/default/webapp-service-worker-console.logí¾îÒ“3²‰Ú*
 Slack/sentry/queue/queue.json	İ­à¦“3'
 Slack/sentry/session.json
-õêÙÖ“3¿.
+×·”×“3¿.
  Slack/shared_proto_db/000003.log
 ÓÀçÑ“3ş*
 Slack/shared_proto_db/CURRENT	Ê¿¶‘3%
@@ -5526,7 +5526,11 @@ dconf/user
 flameshot/flameshot.ini
 ‡òª·3¡4
 &freerdp/server/127.0.0.1:4732_4732.pem
-¥¤Ìè3¢W
+¥¤Ìè3¢
+gh/config.yml
+ˆöˆ×“3ü
+gh/hosts.yml
+‡öˆ×“3ĞW
 Hgo/telemetry/local/asm@go1.25.1-go1.25.1-linux-amd64-2025-09-09.v1.countã–Ô‚“3€€W
 Hgo/telemetry/local/cgo@go1.25.1-go1.25.1-linux-amd64-2025-09-09.v1.count¢˜Ô‚“3€€[
 Lgo/telemetry/local/compile@go1.25.1-go1.25.1-linux-amd64-2025-09-09.v1.countĞá×‚“3€€V
@@ -5662,7 +5666,7 @@ qlibreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.help.Pa
 ÈŒà3³	@
 2libreoffice/4/user/pack/registrymodifications.pack
 ÈŒà3˜;
-,libreoffice/4/user/registrymodifications.xcuéùÚÖ“3âŒ6
+,libreoffice/4/user/registrymodifications.xcu©ÉÿÖ“3âŒ6
 (libreoffice/4/user/store/.templdir.cache
 ü“ƒĞ“3ŸY…
 wlibreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend/backenddb.xml
@@ -9844,7 +9848,7 @@ tlibreoffice/4/user/uno_packages/cache/uno_packages/lu1986477a8qhxl.tmp_/Zotero_
 vesktop/sessionData/DIPS-wal©úáÕ“3¨é·:
 ,vesktop/sessionData/DawnGraphiteCache/data_0
 ÕôŞ‹3€@;
-,vesktop/sessionData/DawnGraphiteCache/data_1”ûĞÖ“3€À:
+,vesktop/sessionData/DawnGraphiteCache/data_1³÷‡×“3€À:
 ,vesktop/sessionData/DawnGraphiteCache/data_2
 ÕôŞ‹3€@:
 ,vesktop/sessionData/DawnGraphiteCache/data_3
@@ -9852,7 +9856,7 @@ tlibreoffice/4/user/uno_packages/cache/uno_packages/lu1986477a8qhxl.tmp_/Zotero_
 +vesktop/sessionData/DawnGraphiteCache/indexË²­±“3ğ‚8
 *vesktop/sessionData/DawnWebGPUCache/data_0
 ÔôŞ‹3€@9
-*vesktop/sessionData/DawnWebGPUCache/data_1”ûĞÖ“3€À8
+*vesktop/sessionData/DawnWebGPUCache/data_1³÷‡×“3€À8
 *vesktop/sessionData/DawnWebGPUCache/data_2
 ÔôŞ‹3€@8
 *vesktop/sessionData/DawnWebGPUCache/data_3
@@ -9860,7 +9864,7 @@ tlibreoffice/4/user/uno_packages/cache/uno_packages/lu1986477a8qhxl.tmp_/Zotero_
 )vesktop/sessionData/DawnWebGPUCache/indexÊ²­±“3ğ‚?
 0vesktop/sessionData/Dictionaries/en-US-10-1.bdic¼öŞ‹3€Ë2
 #vesktop/sessionData/GPUCache/data_0åÊ•Ê“3€à2
-#vesktop/sessionData/GPUCache/data_1”ûĞÖ“3€À02
+#vesktop/sessionData/GPUCache/data_1³÷‡×“3€À02
 #vesktop/sessionData/GPUCache/data_2ê¿¸²“3€À@1
 #vesktop/sessionData/GPUCache/data_3
 ÔôŞ‹3€@1
@@ -10021,4 +10025,4 @@ Azsh/themes/catppuccin-zsh/catppuccin-flavors/catppuccin-mocha.zsh
 —¡Ø°3İ<
 .zsh/themes/catppuccin-zsh/catppuccin.zsh-theme
 —¡Ø°3¼
- *]n¢§[ïoñ(‡`y¬½J°0
+ *må¦{¸d«mN¤¶}¶8z§æô0

@@ -24,7 +24,7 @@
 # them has its quirks, therefore you may want to change it if you are having problems.
 # By default, espanso uses the "Auto" backend which should work well in most cases,
 # but you may want to try the "Clipboard" or "Inject" backend in case of issues.
-backend: Inject
+backend: auto
 
 # --- Auto-restart
 
@@ -35,6 +35,9 @@ auto_restart: true
 
 # Because injecting long texts char-by-char is a slow operation, espanso automatically
 # uses the clipboard if the text is longer than 'clipboard_threshold' characters.
-# clipboard_threshold: 100
+clipboard_threshold: 300
 
 # For a list of all the available options, visit the official docs at: https://espanso.org/docs/
+keyboard_layout:
+  layout: "us"
+  options: ctrl:nocaps

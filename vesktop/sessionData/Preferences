@@ -1,1 +1,1 @@
-{"electron":{"media":{"device_id_salt":"19D751911ED4A8E11F87B609514D90B0"}},"migrated_user_scripts_toggle":true,"spellcheck":{"dictionaries":["en-US"],"dictionary":""}}
+{"browser":{"enable_spellchecking":true},"electron":{"media":{"device_id_salt":"19D751911ED4A8E11F87B609514D90B0"}},"migrated_user_scripts_toggle":true,"spellcheck":{"dictionaries":["en-US","en"],"dictionary":""}}

@@ -1,4 +1,4 @@
-// Vencord fbc2dbe
+// Vencord a824452
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false

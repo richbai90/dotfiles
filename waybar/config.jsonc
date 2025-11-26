@@ -1,5 +1,5 @@
 {
-    "layer": "top",
+    "layer": "bottom",
     "position": "top",
     "spacing": 0,
     "height": 34,
@@ -142,6 +142,6 @@
     "custom/power": {
         "format": "󰤆",
         "tooltip": false,
-        "on-click": "~/.config/rofi/powermenu/type-2/powermenu.sh &"
+        "on-click": "~/.config/waybar/scripts/wofi-shutdown.sh"
     }
 }

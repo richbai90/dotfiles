@@ -15,12 +15,12 @@ end
 vim.opt.rtp:prepend(lazypath)
 
 vim.g.mapleader = ","
-vim.g.maplocalleader = " "
+vim.g.maplocalleader = ";"
 
 -- Global options and configs
 require("core.opts")
 require("core.keymaps")
-
+require("core.autocmds")
 require("lazy").setup({
   spec = {
     -- import/override with your plugins

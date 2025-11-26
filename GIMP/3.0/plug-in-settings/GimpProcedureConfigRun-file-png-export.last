@@ -1,14 +1,14 @@
 # settings
 
 (interlaced no)
-(compression 9)
+(compression 0)
 (bkgd yes)
 (offs no)
 (phys yes)
 (time yes)
 (save-transparent no)
 (optimize-palette no)
-(format "auto")
+(format "rgba8")
 (include-exif no)
 (include-iptc no)
 (include-xmp no)
