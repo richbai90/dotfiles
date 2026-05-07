@@ -1,4 +1,0 @@
-2025/11/25-10:05:11.605 23654 Reusing MANIFEST /home/rich/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/11/25-10:05:11.605 23654 Recovering log #46
-2025/11/25-10:05:11.614 23654 Reusing old log /home/rich/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000046.log 
-2025/11/25-10:05:11.614 23654 Delete type=2 #45
